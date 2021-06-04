@@ -1,8 +1,6 @@
 import pathlib 
 import pandas as pd
-import frontmatter
 from slugify import slugify
-from frontmatter.default_handlers import JSONHandler
 
 hbcus = pd.read_html('HBCU_LIST.html')[0]
 hbcus.rename(columns={"Regionally accredited[3]":"Regionally acredited"}, inplace=True)
