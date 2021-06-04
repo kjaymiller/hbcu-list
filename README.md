@@ -230,5 +230,5 @@
 
 [West Virginia State University](/pages/west-virginia-state-university.md)
 
-source: <https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities>
-license: [MIT License](/LICENSE)
+#### source: <https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities>
+#### license: [MIT License](/LICENSE)
