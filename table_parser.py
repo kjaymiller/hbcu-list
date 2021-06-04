@@ -6,7 +6,7 @@ with open('README.md', 'w') as fp:
     fp.write("# HBCUs in the United States")
 
     for name in sorted(hbcus['State/Territory'].unique()):
-        fp.write(f"\n ## {name}\n---\n")
+        fp.write(f"\n ## {name}\n\n")
         schools = hbcus[hbcus['State/Territory'] == name].School.values
         fp.write('\n\n'.join(schools))
 
