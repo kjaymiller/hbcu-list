@@ -7,14 +7,20 @@ from frontmatter.default_handlers import JSONHandler
 hbcus = pd.read_html('HBCU_LIST.html')[0]
 hbcus.rename(columns={"Regionally accredited[3]":"Regionally acredited"}, inplace=True)
 
+def gen_slug_link(school):
+    school_name = school
+    link = slugify(school_name)
+
+    return f"[{school_name}](/pages/{link})"
+
 def gen_readme():
     with open('README.md', 'w') as fp:
         fp.write("# HBCUs in the United States")
 
         for name in sorted(hbcus['State/Territory'].unique()):
             fp.write(f"\n ## {name}\n\n")
-            schools = hbcus[hbcus['State/Territory'] == name].School.values
-            fp.write('\n\n'.join(schools))
+            schools = map(gen_slug_link, hbcus[hbcus['State/Territory'] == name].School.values)
+            fp.write('\n\n'.join(list(schools)))
 
         fp.write("\nsource: <https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities>")
 
@@ -42,4 +48,4 @@ def build_pages():
         
 
 if __name__ == "__main__":
-    build_pages()
+    gen_readme()
