@@ -1,6 +1,5 @@
-# HBCUs in the United States
- ## Alabama
-
+# HBCUs in the the United States
+## Alabama
 [Alabama A&M University](/pages/alabama-a-m-university.md)
 
 [Alabama State University](/pages/alabama-state-university.md)
@@ -28,8 +27,8 @@
 [Trenholm State Technical College](/pages/trenholm-state-technical-college.md)
 
 [Tuskegee University](/pages/tuskegee-university.md)
- ## Arkansas
 
+## Arkansas
 [University of Arkansas at Pine Bluff](/pages/university-of-arkansas-at-pine-bluff.md)
 
 [Arkansas Baptist College](/pages/arkansas-baptist-college.md)
@@ -37,16 +36,16 @@
 [Philander Smith College](/pages/philander-smith-college.md)
 
 [Shorter College](/pages/shorter-college.md)
- ## Delaware
 
+## Delaware
 [Delaware State University](/pages/delaware-state-university.md)
- ## District of Columbia
 
+## District of Columbia
 [University of the District of Columbia](/pages/university-of-the-district-of-columbia.md)
 
 [Howard University](/pages/howard-university.md)
- ## Florida
 
+## Florida
 [Bethune-Cookman University](/pages/bethune-cookman-university.md)
 
 [Edward Waters College](/pages/edward-waters-college.md)
@@ -54,8 +53,8 @@
 [Florida A&M University](/pages/florida-a-m-university.md)
 
 [Florida Memorial University](/pages/florida-memorial-university.md)
- ## Georgia
 
+## Georgia
 [Albany State University](/pages/albany-state-university.md)
 
 [Clark Atlanta University](/pages/clark-atlanta-university.md)
@@ -75,13 +74,13 @@
 [Savannah State University](/pages/savannah-state-university.md)
 
 [Spelman College](/pages/spelman-college.md)
- ## Kentucky
 
+## Kentucky
 [Kentucky State University](/pages/kentucky-state-university.md)
 
 [Simmons College](/pages/simmons-college.md)
- ## Louisiana
 
+## Louisiana
 [Dillard University](/pages/dillard-university.md)
 
 [Grambling State University](/pages/grambling-state-university.md)
@@ -93,8 +92,8 @@
 [Southern University and A&M College](/pages/southern-university-and-a-m-college.md)
 
 [Xavier University of Louisiana](/pages/xavier-university-of-louisiana.md)
- ## Maryland
 
+## Maryland
 [Bowie State University](/pages/bowie-state-university.md)
 
 [Coppin State University](/pages/coppin-state-university.md)
@@ -102,8 +101,8 @@
 [University of Maryland Eastern Shore](/pages/university-of-maryland-eastern-shore.md)
 
 [Morgan State University](/pages/morgan-state-university.md)
- ## Mississippi
 
+## Mississippi
 [Alcorn State University](/pages/alcorn-state-university.md)
 
 [Coahoma Community College](/pages/coahoma-community-college.md)
@@ -117,13 +116,13 @@
 [Rust College](/pages/rust-college.md)
 
 [Tougaloo College](/pages/tougaloo-college.md)
- ## Missouri
 
+## Missouri
 [Harris-Stowe State University](/pages/harris-stowe-state-university.md)
 
 [Lincoln University of Missouri](/pages/lincoln-university-of-missouri.md)
- ## North Carolina
 
+## North Carolina
 [Barber-Scotia College](/pages/barber-scotia-college.md)
 
 [Bennett College](/pages/bennett-college.md)
@@ -145,23 +144,23 @@
 [St. Augustine's University](/pages/st-augustine-s-university.md)
 
 [Winston-Salem State University](/pages/winston-salem-state-university.md)
- ## Ohio
 
+## Ohio
 [Central State University](/pages/central-state-university.md)
 
 [Payne Theological Seminary](/pages/payne-theological-seminary.md)
 
 [Wilberforce University](/pages/wilberforce-university.md)
- ## Oklahoma
 
+## Oklahoma
 [Langston University](/pages/langston-university.md)
- ## Pennsylvania
 
+## Pennsylvania
 [Cheyney University of Pennsylvania](/pages/cheyney-university-of-pennsylvania.md)
 
 [Lincoln University](/pages/lincoln-university.md)
- ## South Carolina
 
+## South Carolina
 [Allen University](/pages/allen-university.md)
 
 [Benedict College](/pages/benedict-college.md)
@@ -177,8 +176,8 @@
 [South Carolina State University](/pages/south-carolina-state-university.md)
 
 [Voorhees College](/pages/voorhees-college.md)
- ## Tennessee
 
+## Tennessee
 [American Baptist College](/pages/american-baptist-college.md)
 
 [Fisk University](/pages/fisk-university.md)
@@ -192,8 +191,8 @@
 [Meharry Medical College](/pages/meharry-medical-college.md)
 
 [Tennessee State University](/pages/tennessee-state-university.md)
- ## Texas
 
+## Texas
 [HustonâTillotson University](/pages/hustonatillotson-university.md)
 
 [Jarvis Christian College](/pages/jarvis-christian-college.md)
@@ -211,11 +210,11 @@
 [Texas Southern University](/pages/texas-southern-university.md)
 
 [Wiley College](/pages/wiley-college.md)
- ## United States Virgin Islands
 
+## United States Virgin Islands
 [University of the Virgin Islands](/pages/university-of-the-virgin-islands.md)
- ## Virginia
 
+## Virginia
 [Hampton University](/pages/hampton-university.md)
 
 [Norfolk State University](/pages/norfolk-state-university.md)
@@ -225,9 +224,10 @@
 [Virginia Union University](/pages/virginia-union-university.md)
 
 [Virginia University of Lynchburg](/pages/virginia-university-of-lynchburg.md)
- ## West Virginia
 
+## West Virginia
 [Bluefield State College](/pages/bluefield-state-college.md)
 
 [West Virginia State University](/pages/west-virginia-state-university.md)
+
 source: <https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities>
