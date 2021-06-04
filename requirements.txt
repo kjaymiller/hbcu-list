@@ -4,6 +4,8 @@
 #
 #    pip-compile
 #
+lxml==4.6.3
+    # via -r requirements.in
 numpy==1.20.3
     # via pandas
 pandas==1.2.4

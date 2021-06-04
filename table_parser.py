@@ -36,7 +36,8 @@ def gen_readme():
         fp.write(f"""# HBCUs in the the United States
 {state_sections}
 
-source: <https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities>""")
+source: <https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities>
+license: [MIT License](/LICENSE)""")
 
 
 def build_pages():
