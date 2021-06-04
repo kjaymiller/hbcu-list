@@ -4,17 +4,22 @@ from string import Template
 import pandas as pd
 from slugify import slugify
 
-hbcus = pd.read_html("HBCU_LIST.html")[0]
-hbcus.rename(columns={"Regionally accredited[3]": "Regionally acredited"}, inplace=True)
+
+df = pd.read_csv('Most-Recent-Cohorts-All-Data-Elements.csv', usecols=['INSTNM','INSTURL'])
+df['slug'] = df.apply(lambda x: slugify(x['INSTNM']), axis=1)
+
+base_hbcus = pd.read_html("HBCU_LIST.html")[0]
+df['slug'] = df.apply(lambda x: slugify(x['INSTNM']), axis=1)
+
+
+hbcus = pd.merge(hbcus, df, on='slug')
+hbcus.rename(columns={"Regionally accredited[3]": "Regionally Accredited"}, inplace=True)
 
 
 def _gen_slug_link(school):
     """create markdown link to associated pages object"""
 
-    school_name = school
-    link = slugify(school_name)
-
-    return f"[{school_name}](/pages/{link}.md)"
+    return f"[{school.school}](/pages/{school.slug}.md) - <school.INSTURL>"
 
 
 def gen_readme():
