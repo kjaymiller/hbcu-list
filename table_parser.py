@@ -11,7 +11,7 @@ def gen_slug_link(school):
     school_name = school
     link = slugify(school_name)
 
-    return f"[{school_name}](/pages/{link})"
+    return f"[{school_name}](/pages/{link}).md"
 
 def gen_readme():
     with open('README.md', 'w') as fp:
