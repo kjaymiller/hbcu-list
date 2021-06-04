@@ -8,7 +8,7 @@ with open('README.md', 'w') as fp:
     for name in sorted(hbcus['State/Territory'].unique()):
         fp.write(f"\n ## {name}\n---\n")
         schools = hbcus[hbcus['State/Territory'] == name].School.values
-        fp.write('\n'.join(schools))
+        fp.write('\n\n'.join(schools))
 
     fp.write("\nsource: <https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities>")
 
