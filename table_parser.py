@@ -23,7 +23,7 @@ column_values = [
     "RELAFFIL",
 ]
 
-base_df = pd.read_csv("Most-Recent-Cohorts-All-Data-Elements.csv", usecols=column_values)
+base_df = pd.read_csv("base_data/Most-Recent-Cohorts-All-Data-Elements.csv", usecols=column_values)
 
 # Create DATAFRAME FOR ACTIVE HBCUs and PBIs
 hbcus = base_df.loc[(base_df.HBCU == 1) & (base_df.CURROPER == 1)]

@@ -274,5 +274,6 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-*.csv
+
+base_data/
 *.ipynb
