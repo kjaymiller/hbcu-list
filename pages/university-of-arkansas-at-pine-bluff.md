@@ -1,10 +1,18 @@
 ---
-School: University of Arkansas at Pine Bluff
-City: Pine Bluff
-State/Territory: Arkansas
-Founded: 1873
-Type: Public
-Religious Affiliation: nan
-Regionally acredited: Yes
+INSTNM: University of Arkansas at Pine Bluff
+CITY: Pine Bluff
+INSTURL: www.uapb.edu
+CONTROL: Public
+ST_FIPS: Arkansas
+LATITUDE: 34.244031
+LONGITUDE: -92.018683
+HBCU: 1.0
+PBI: 0.0
+MENONLY: 0.0
+WOMENONLY: 0.0
+RELAFFIL: Not reported
+CURROPER: 1
+slug: university-of-arkansas-at-pine-bluff
+location: [34.244031, -92.018683]
 ---
-Founded as "Branch Normal College"
+University of Arkansas at Pine Bluff

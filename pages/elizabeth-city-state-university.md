@@ -1,10 +1,18 @@
 ---
-School: Elizabeth City State University
-City: Elizabeth City
-State/Territory: North Carolina
-Founded: 1891
-Type: Public
-Religious Affiliation: nan
-Regionally acredited: Yes
+INSTNM: Elizabeth City State University
+CITY: Elizabeth City
+INSTURL: www.ecsu.edu
+CONTROL: Public
+ST_FIPS: North Carolina
+LATITUDE: 36.277978
+LONGITUDE: -76.214041
+HBCU: 1.0
+PBI: 0.0
+MENONLY: 0.0
+WOMENONLY: 0.0
+RELAFFIL: Not reported
+CURROPER: 1
+slug: elizabeth-city-state-university
+location: [36.277978, -76.214041]
 ---
-nan
+Elizabeth City State University
