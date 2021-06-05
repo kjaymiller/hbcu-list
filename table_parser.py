@@ -4,21 +4,19 @@ from string import Template
 import pandas as pd
 from slugify import slugify
 
+# Translate ST_FIPS to State
+ST_FIPS = pd.read_csv('ST_FIPS.csv')
+df = pd.read_csv('Most-Recent-Cohorts-All-Data-Elements.csv') # TODO: `use_cols` to reduce the size of imported data
 
-df = pd.read_csv('Most-Recent-Cohorts-All-Data-Elements.csv', usecols=['INSTNM','INSTURL'])
-df['INSTURL'] = df['INSTURL'].str.rstrip('/')
-df['slug'] = df.apply(lambda x: slugify(x['INSTNM']), axis=1)
+hbcus = df.loc[((df.PBI == 1) | (df.HBCU==1)) & (df.CURROPER==1)]
+hbcus['slug'] = df.apply(lambda x: slugify(x['INSTNM']), axis=1)
+hbcus = hbcus.merge(ST_FIPS, on='ST_FIPS')
 
-base_hbcus = pd.read_html("HBCU_LIST.html")[0]
-base_hbcus['slug'] = base_hbcus.apply(lambda x: slugify(x['School']), axis=1)
-
-hbcus = pd.merge(base_hbcus, df, on='slug')
-hbcus.rename(columns={"Regionally accredited[3]": "Regionally Accredited"}, inplace=True)
 
 def _gen_slug_link(school):
     """create markdown link to associated pages object"""
 
-    return f"[{school.School}](/pages/{school.slug}.md) - {school.INSTURL}"
+    return f"[{school.INSTNM}](/pages/{school.slug}.md) - {school.INSTURL}"
 
 
 def gen_readme():
@@ -27,8 +25,10 @@ def gen_readme():
 
     states_list = []
 
-    for name in sorted(hbcus["State/Territory"].unique()):
-        schools = hbcus[hbcus["State/Territory"] == name]['readme'].values
+    for d in hbcus.columns:
+        print(d)
+    for name in sorted(hbcus["STATE"].unique()):
+        schools = hbcus[hbcus["STATE"] == name]['readme'].values
         schools = "\n\n".join(schools)
         state_section = f"## {name}\n{schools}"
         states_list.append(state_section)
@@ -40,8 +40,8 @@ def gen_readme():
 {state_sections}
 
 #### source: 
-- [Wikipedia List of HBCUs](https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities)
 - [College Scorecard US Dept. of Education](https://data.ed.gov/dataset/college-scorecard-all-data-files-through-6-2020/resources?resource=823ac095-bdfc-41b0-b508-4e8fc3110082)
+
 #### license: [MIT License](/LICENSE)""")
 
 
