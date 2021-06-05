@@ -23,52 +23,57 @@ column_values = [
     "RELAFFIL",
 ]
 
-base_df = pd.read_csv("base_data/Most-Recent-Cohorts-All-Data-Elements.csv", usecols=column_values)
+base_df = pd.read_csv(
+    "base_data/Most-Recent-Cohorts-All-Data-Elements.csv", usecols=column_values
+)
 
 # Create DATAFRAME FOR ACTIVE HBCUs and PBIs
 hbcus = base_df.loc[(base_df.HBCU == 1) & (base_df.CURROPER == 1)]
 pbis = base_df.loc[(base_df.PBI == 1) & (base_df.CURROPER == 1)]
 
+
 def from_dict(df, csv_file, index_col, value, fill_value=0):
-    dict_from_pandas = pd.read_csv(csv_file, index_col=index_col).to_dict(orient="index")
+    dict_from_pandas = pd.read_csv(csv_file, index_col=index_col).to_dict(
+        orient="index"
+    )
     df[index_col].fillna(fill_value, inplace=True)
-    df[index_col] = df.apply(lambda x: dict_from_pandas[x[index_col]][value], axis=1) 
+    df[index_col] = df.apply(lambda x: dict_from_pandas[x[index_col]][value], axis=1)
 
 
 for df in (hbcus, pbis):
-    df['slug'] = df.apply(lambda x: slugify(x.INSTNM), axis=1)
+    df["slug"] = df.apply(lambda x: slugify(x.INSTNM), axis=1)
 
     # CREATE LOCATION COLUMN
     df["location"] = df.apply(lambda x: [x.LATITUDE, x.LONGITUDE], axis=1)
 
-
-    # Replace Data from 
+    # Replace Data from
     # STATE DATA
     from_dict(
-            df=df,
-            csv_file="translations/ST_FIPS.CSV",
-            index_col='ST_FIPS',
-            value='STATE',
+        df=df,
+        csv_file="translations/ST_FIPS.CSV",
+        index_col="ST_FIPS",
+        value="STATE",
     )
 
     # CONTROL DATA
     from_dict(
-            df=df,
-            csv_file="translations/CONTROL.CSV",
-            index_col='CONTROL',
-            value='CONTROL_VALUE',
-            fill_value=0,
+        df=df,
+        csv_file="translations/CONTROL.CSV",
+        index_col="CONTROL",
+        value="CONTROL_VALUE",
+        fill_value=0,
     )
 
     # RELIGIOUS DATA -  Patch Found Invalid VALUE
-    df.loc[df['RELAFFIL'] > 107, 'RELAFFIL'] = 99
+    df.loc[df["RELAFFIL"] > 107, "RELAFFIL"] = 99
     from_dict(
-            df=df,
-            csv_file="translations/RELAFFIL.CSV",
-            index_col='RELAFFIL',
-            value='RELIGIOUS',
-            fill_value=-1,
+        df=df,
+        csv_file="translations/RELAFFIL.CSV",
+        index_col="RELAFFIL",
+        value="RELIGIOUS",
+        fill_value=-1,
     )
+
 
 def _gen_slug_link(school):
     """create markdown link to associated pages object"""
@@ -77,22 +82,25 @@ def _gen_slug_link(school):
 
 @app.command()
 def gen_list(
-        filename: pathlib.Path='readme.md',
-        title="HBCUs in the the United States"
-        ):
+    filename: pathlib.Path = "readme.md", title="HBCUs in the the United States"
+):
     """build readme with readme_templates"""
 
-    states=[]
+    states = []
 
     for df in (hbcus, pbis):
-        df["readme"]= df.apply(_gen_slug_link, axis=1)
+        df["readme"] = df.apply(_gen_slug_link, axis=1)
 
     for name in sorted(df["ST_FIPS"].unique()):
         state_sections = {}
 
-        for df_name, df in (('hbcus', hbcus), ('pbis', pbis)):
-            schools = df[df["ST_FIPS"] == name]["readme"].values
-            schools = "\n\n".join(schools)
+        for df_name, df in (("hbcus", hbcus), ("pbis", pbis)):
+            schools = df[df["ST_FIPS"] == name]["readme"].values.tolist()
+
+            if schools:
+                schools = "\n\n".join(schools)
+            else:
+                schools = "None"
             state_sections[df_name] = schools
 
         state_section = f"""## {name}
@@ -104,10 +112,9 @@ def gen_list(
 
         states.append(state_section)
 
-
-
-    states = '\n'.join(states)
-    filename.write_text(f"""# {title}
+    states = "\n".join(states)
+    filename.write_text(
+        f"""# {title}
 {states}
 
 ---
@@ -115,10 +122,11 @@ def gen_list(
     - [College Scorecard US Dept. of Education](https://data.ed.gov/dataset/college-scorecard-all-data-files-through-6-2020/resources?resource=823ac095-bdfc-41b0-b508-4e8fc3110082)
 
 #### license: [MIT License](/LICENSE)"""
-            )
+    )
+
 
 @app.command()
-def build_pages(): # TODO REMOVE DEPENDENCY ON WIKIPEDIA
+def build_pages():  # TODO REMOVE DEPENDENCY ON WIKIPEDIA
     hbcu_json = hbcus.to_dict(orient="records")
 
     for row in hbcu_json:
@@ -138,6 +146,7 @@ def build_pages(): # TODO REMOVE DEPENDENCY ON WIKIPEDIA
 ---
 {row['INSTNM']}"""
         )
+
 
 if __name__ == "__main__":
     app()

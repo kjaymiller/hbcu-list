@@ -145,7 +145,7 @@
 [Central Georgia Technical College](/pages/central-georgia-technical-college.md) - www.centralgatech.edu
 ## Illinois
 ### HBCUs
-
+None
 
 ### PBIs
 [Chicago State University](/pages/chicago-state-university.md) - www.csu.edu
@@ -165,7 +165,7 @@
 [South Suburban College](/pages/south-suburban-college.md) - https://www.ssc.edu
 ## Indiana
 ### HBCUs
-
+None
 
 ### PBIs
 [Martin University](/pages/martin-university.md) - www.martin.edu
@@ -213,7 +213,7 @@
 [Washington Adventist University](/pages/washington-adventist-university.md) - https://www.wau.edu
 ## Michigan
 ### HBCUs
-
+None
 
 ### PBIs
 [Wayne County Community College District](/pages/wayne-county-community-college-district.md) - www.wcccd.edu
@@ -249,7 +249,7 @@
 [Southwest Mississippi Community College](/pages/southwest-mississippi-community-college.md) - www.smcc.edu
 ## New Jersey
 ### HBCUs
-
+None
 
 ### PBIs
 [Bloomfield College](/pages/bloomfield-college.md) - www.bloomfield.edu/
@@ -257,7 +257,7 @@
 [Essex County College](/pages/essex-county-college.md) - www.essex.edu
 ## New York
 ### HBCUs
-
+None
 
 ### PBIs
 [Metropolitan College of New York](/pages/metropolitan-college-of-new-york.md) - https://www.mcny.edu
