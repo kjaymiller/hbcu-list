@@ -1,10 +1,21 @@
 ---
-School: Wiley College
-City: Marshall
-State/Territory: Texas
-Founded: 1873
-Type: Private
-Religious Affiliation: United Methodist Church
-Regionally acredited: Yes
+INSTNM: Wiley College
+CITY: Marshall
+INSTURL: wileyc.edu
+CONTROL: 2
+ST_FIPS: 48
+LATITUDE: 32.537641
+LONGITUDE: -94.376814
+HBCU: 1.0
+PBI: 0.0
+MENONLY: 0.0
+WOMENONLY: 0.0
+RELAFFIL: 71.0
+CURROPER: 1
+slug: wiley-college
+location: [32.537641, -94.376814]
+STATE: Texas
+CONTROL_VALUE: Private nonprofit
+RELIGIOUS: United Methodist
 ---
-Named for Isaac William Wiley
+Wiley College

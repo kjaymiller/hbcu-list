@@ -1,10 +1,21 @@
 ---
-School: Allen University
-City: Columbia
-State/Territory: South Carolina
-Founded: 1870
-Type: Private
-Religious Affiliation: African Methodist Episcopal
-Regionally acredited: Yes
+INSTNM: Allen University
+CITY: Columbia
+INSTURL: www.allenuniversity.edu/
+CONTROL: 2
+ST_FIPS: 45
+LATITUDE: 34.010348
+LONGITUDE: -81.020045
+HBCU: 1.0
+PBI: 0.0
+MENONLY: 0.0
+WOMENONLY: 0.0
+RELAFFIL: 51.0
+CURROPER: 1
+slug: allen-university
+location: [34.010348, -81.020045]
+STATE: South Carolina
+CONTROL_VALUE: Private nonprofit
+RELIGIOUS: African Methodist Episcopal
 ---
-Founded as "Payne Institute"
+Allen University

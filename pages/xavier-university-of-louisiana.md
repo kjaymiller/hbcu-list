@@ -1,10 +1,21 @@
 ---
-School: Xavier University of Louisiana
-City: New Orleans
-State/Territory: Louisiana
-Founded: 1915
-Type: Private
-Religious Affiliation: Catholic
-Regionally acredited: Yes
+INSTNM: Xavier University of Louisiana
+CITY: New Orleans
+INSTURL: https://www.xula.edu
+CONTROL: 2
+ST_FIPS: 22
+LATITUDE: 29.964162
+LONGITUDE: -90.107307
+HBCU: 1.0
+PBI: 0.0
+MENONLY: 0.0
+WOMENONLY: 0.0
+RELAFFIL: 30.0
+CURROPER: 1
+slug: xavier-university-of-louisiana
+location: [29.964162, -90.107307]
+STATE: Louisiana
+CONTROL_VALUE: Private nonprofit
+RELIGIOUS: Roman Catholic
 ---
-Founded as Xavier Preparatory High School
+Xavier University of Louisiana

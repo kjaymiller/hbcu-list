@@ -1,10 +1,21 @@
 ---
-School: Lane College
-City: Jackson
-State/Territory: Tennessee
-Founded: 1882
-Type: Private
-Religious Affiliation: Christian Methodist Episcopal Church
-Regionally acredited: Yes
+INSTNM: Lane College
+CITY: Jackson
+INSTURL: www.lanecollege.edu
+CONTROL: 2
+ST_FIPS: 47
+LATITUDE: 35.627378
+LONGITUDE: -88.806535
+HBCU: 1.0
+PBI: 0.0
+MENONLY: 0.0
+WOMENONLY: 0.0
+RELAFFIL: 55.0
+CURROPER: 1
+slug: lane-college
+location: [35.627378, -88.806535]
+STATE: Tennessee
+CONTROL_VALUE: Private nonprofit
+RELIGIOUS: Christian Methodist Episcopal
 ---
-Founded as "Colored Methodist Episcopal High School"[11]
+Lane College

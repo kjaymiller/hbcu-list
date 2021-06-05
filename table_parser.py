@@ -4,22 +4,43 @@ from string import Template
 import pandas as pd
 from slugify import slugify
 
-# Translate ST_FIPS to State
-ST_FIPS = pd.read_csv('ST_FIPS.csv')
 
 column_values = [
-        'INSTNM',
-        'INSTURL',
-        'ST_FIPS',
-        'PBI',
-        'HBCU',
-        'CURROPER',
-        ]
-df = pd.read_csv('Most-Recent-Cohorts-All-Data-Elements.csv', usecols=column_values) # TODO: `use_cols` to reduce the size of imported data
+    "INSTNM",
+    "INSTURL",
+    "CITY",
+    "ST_FIPS",
+    "PBI",
+    "HBCU",
+    "CURROPER",
+    "LATITUDE",
+    "LONGITUDE",
+    "MENONLY",
+    "WOMENONLY",
+    "CONTROL",
+    "RELAFFIL",
+]
 
-hbcus = df.loc[((df.PBI == 1) | (df.HBCU==1)) & (df.CURROPER==1)]
-hbcus['slug'] = df.apply(lambda x: slugify(x['INSTNM']), axis=1)
-hbcus = hbcus.merge(ST_FIPS, on='ST_FIPS')
+df = pd.read_csv("Most-Recent-Cohorts-All-Data-Elements.csv", usecols=column_values)
+
+# Create DATAFRAME FOR ACTIVE HBCUs and PBIs
+hbcus = df.loc[((df.PBI == 1) | (df.HBCU == 1)) & (df.CURROPER == 1)]
+hbcus["slug"] = hbcus.apply(lambda x: slugify(x["INSTNM"]), axis=1)
+
+# CREATE LOCATION COLUMN
+hbcus["location"] = hbcus.apply(lambda x: [x.LATITUDE, x.LONGITUDE], axis=1)
+
+# Add STATE_DATA
+ST_FIPS = pd.read_csv("ST_FIPS.csv")
+hbcus = hbcus.merge(ST_FIPS, on="ST_FIPS")
+
+# Add CONTROL_DATA (PRIVATE, PUBLIC)
+CONTROL = pd.read_csv("CONTROL.csv")
+hbcus = hbcus.merge(CONTROL, on="CONTROL")
+
+# Add RELIGIOUS AFFILIATION
+RELAFFIL = pd.read_csv("RELAFFIL.csv")
+hbcus = hbcus.merge(RELAFFIL, on="RELAFFIL")
 
 
 def _gen_slug_link(school):
@@ -30,12 +51,12 @@ def _gen_slug_link(school):
 
 def gen_readme():
     """build readme with readme_templates"""
-    hbcus['readme'] = hbcus.apply(_gen_slug_link, axis=1)
+    hbcus["readme"] = hbcus.apply(_gen_slug_link, axis=1)
 
     states_list = []
 
     for name in sorted(hbcus["STATE"].unique()):
-        schools = hbcus[hbcus["STATE"] == name]['readme'].values
+        schools = hbcus[hbcus["STATE"] == name]["readme"].values
         schools = "\n\n".join(schools)
         state_section = f"## {name}\n{schools}"
         states_list.append(state_section)
@@ -43,38 +64,39 @@ def gen_readme():
     state_sections = "\n\n".join(states_list)
 
     with open("README.md", "w") as fp:
-        fp.write(f"""# HBCUs in the the United States
+        fp.write(
+            f"""# HBCUs in the the United States
 {state_sections}
 
 #### source: 
 - [College Scorecard US Dept. of Education](https://data.ed.gov/dataset/college-scorecard-all-data-files-through-6-2020/resources?resource=823ac095-bdfc-41b0-b508-4e8fc3110082)
 
-#### license: [MIT License](/LICENSE)""")
+#### license: [MIT License](/LICENSE)"""
+        )
 
 
-def build_pages(): # TODO REMOVE DEPENDENCY ON WIKIPEDIA
-    hbcus.set_index("School")
+def build_pages():  # TODO REMOVE DEPENDENCY ON WIKIPEDIA
+    hbcus.set_index("INSTNM")
     hbcu_json = hbcus.to_dict(orient="records")
 
     for row in hbcu_json:
         f_meta = []
 
         for name, val in row.items():
-            if name != "Comment":
-                f_meta.append(f"{name}: {val}")
+            f_meta.append(f"{name}: {val}")
 
         ftext = "\n".join(f_meta)
 
-        filepath = pathlib.Path(slugify(row["School"])).with_suffix(".md")
+        filepath = pathlib.Path(row["slug"]).with_suffix(".md")
         page = pathlib.Path("pages").joinpath(filepath)
 
         page.write_text(
             f"""---
 {ftext}
 ---
-{row['Comment']}"""
+{row['INSTNM']}"""
         )
 
 
 if __name__ == "__main__":
-    gen_readme()
+    build_pages()
