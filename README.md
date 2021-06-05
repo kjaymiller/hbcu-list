@@ -1,238 +1,212 @@
 # HBCUs in the the United States
 ## Alabama
-[Alabama A&M University](/pages/alabama-a-m-university.md) - <www.aamu.edu/>
+[Alabama A&M University](/pages/alabama-a-m-university.md) - <www.aamu.edu>
 
-[Alabama State University](/pages/university-of-alabama-at-birmingham.md) - <https://www.uab.edu>
+[Alabama State University](/pages/alabama-state-university.md) - <www.alasu.edu>
 
-[Bishop State Community College](/pages/south-university-montgomery.md) - <www.southuniversity.edu/montgomery#location=Montgomery,%20AL>
+[Bishop State Community College](/pages/bishop-state-community-college.md) - <www.bishop.edu>
 
-[Gadsden State Community College](/pages/marion-military-institute.md) - <www.marionmilitary.edu>
+[Gadsden State Community College](/pages/gadsden-state-community-college.md) - <www.gadsdenstate.edu>
 
-[J. F. Drake State Technical College](/pages/reid-state-technical-college.md) - <www.rstc.edu>
+[Lawson State Community College](/pages/lawson-state-community-college.md) - <www.lawsonstate.edu>
 
-[Lawson State Community College](/pages/stillman-college.md) - <https://stillman.edu>
+[Miles College](/pages/miles-college.md) - <www.miles.edu>
 
-[Miles College](/pages/university-of-alaska-anchorage.md) - <www.uaa.alaska.edu>
+[Oakwood University](/pages/oakwood-university.md) - <https://www2.oakwood.edu>
 
-[Oakwood University](/pages/carrington-college-mesa.md) - <https://carrington.edu/>
+[Selma University](/pages/selma-university.md) - <selmauniversity.edu>
 
-[Selma University](/pages/university-of-arizona.md) - <https://www.arizona.edu>
+[Shelton State Community College](/pages/shelton-state-community-college.md) - <www.sheltonstate.edu>
 
-[Shelton State Community College](/pages/charles-of-italy-beauty-college.md) - <www.charlesofitaly.edu>
+[Stillman College](/pages/stillman-college.md) - <https://stillman.edu>
 
-[Stillman College](/pages/grand-canyon-university.md) - <www.gcu.edu>
+[Talladega College](/pages/talladega-college.md) - <www.talladega.edu>
 
-[Talladega College](/pages/gateway-community-college.md) - <www.gatewaycc.edu>
-
-[Talladega College](/pages/gateway-community-college.md) - <www.gatewayct.edu/>
-
-[Trenholm State Technical College](/pages/northern-arizona-university.md) - <https://nau.edu/>
-
-[Tuskegee University](/pages/northland-pioneer-college.md) - <www.npc.edu>
+[Tuskegee University](/pages/tuskegee-university.md) - <www.tuskegee.edu>
 
 ## Arkansas
-[University of Arkansas at Pine Bluff](/pages/central-alabama-community-college.md) - <www.cacc.edu>
+[University of Arkansas at Pine Bluff](/pages/university-of-arkansas-at-pine-bluff.md) - <www.uapb.edu>
 
-[Arkansas Baptist College](/pages/athens-state-university.md) - <www.athens.edu>
+[Arkansas Baptist College](/pages/arkansas-baptist-college.md) - <www.arkansasbaptist.edu>
 
-[Philander Smith College](/pages/platt-college-arizona-automotive-institute-arizona.md) - <www.aai.edu>
+[Philander Smith College](/pages/philander-smith-college.md) - <https://www.philander.edu>
 
-[Shorter College](/pages/central-arizona-college.md) - <www.centralaz.edu>
+[Shorter College](/pages/shorter-college.md) - <www.shortercollege.edu>
 
 ## Delaware
-[Delaware State University](/pages/huntingdon-college.md) - <www.huntingdon.edu>
+[Delaware State University](/pages/delaware-state-university.md) - <www.desu.edu>
 
 ## District of Columbia
-[University of the District of Columbia](/pages/j-f-ingram-state-technical-college.md) - <www.istc.edu>
+[University of the District of Columbia](/pages/university-of-the-district-of-columbia.md) - <www.udc.edu>
 
-[Howard University](/pages/university-of-north-alabama.md) - <www.una.edu>
+[Howard University](/pages/howard-university.md) - <www.howard.edu>
 
 ## Florida
-[Bethune-Cookman University](/pages/chattahoochee-valley-community-college.md) - <www.cv.edu>
+[Bethune-Cookman University](/pages/bethune-cookman-university.md) - <www.cookman.edu>
 
-[Edward Waters College](/pages/jacksonville-state-university.md) - <www.jsu.edu/>
+[Edward Waters College](/pages/edward-waters-college.md) - <www.ewc.edu>
 
-[Florida A&M University](/pages/lawson-state-community-college.md) - <www.lawsonstate.edu>
-
-[Florida Memorial University](/pages/university-of-west-alabama.md) - <www.uwa.edu>
+[Florida Memorial University](/pages/florida-memorial-university.md) - <www.fmuniv.edu>
 
 ## Georgia
-[Albany State University](/pages/amridge-university.md) - <www.amridgeuniversity.edu>
+[Albany State University](/pages/albany-state-university.md) - <https://www.asurams.edu>
 
-[Clark Atlanta University](/pages/george-c-wallace-community-college-dothan.md) - <www.wallace.edu>
+[Clark Atlanta University](/pages/clark-atlanta-university.md) - <www.cau.edu>
 
-[Fort Valley State University](/pages/lurleen-b-wallace-community-college.md) - <https://www.lbwcc.edu>
+[Fort Valley State University](/pages/fort-valley-state-university.md) - <www.fvsu.edu>
 
-[Interdenominational Theological Center](/pages/oakwood-university.md) - <https://www2.oakwood.edu>
+[Interdenominational Theological Center](/pages/interdenominational-theological-center.md) - <www.itc.edu>
 
-[Morehouse College](/pages/university-of-alaska-fairbanks.md) - <www.uaf.edu>
+[Morehouse College](/pages/morehouse-college.md) - <www.morehouse.edu>
 
-[Morehouse School of Medicine](/pages/university-of-alaska-southeast.md) - <www.uas.alaska.edu>
+[Morehouse School of Medicine](/pages/morehouse-school-of-medicine.md) - <www.msm.edu>
 
-[Morris Brown College](/pages/alaska-vocational-technical-center.md) - <www.avtec.edu/>
+[Paine College](/pages/paine-college.md) - <www.paine.edu>
 
-[Paine College](/pages/carrington-college-tucson.md) - <https://carrington.edu/>
+[Savannah State University](/pages/savannah-state-university.md) - <www.savannahstate.edu>
 
-[Savannah State University](/pages/arizona-western-college.md) - <www.azwestern.edu>
-
-[Spelman College](/pages/embry-riddle-aeronautical-university-prescott.md) - <prescott.erau.edu/>
+[Spelman College](/pages/spelman-college.md) - <www.spelman.edu>
 
 ## Kentucky
-[Kentucky State University](/pages/shelton-state-community-college.md) - <www.sheltonstate.edu>
-
-[Simmons College](/pages/cochise-county-community-college-district.md) - <https://www.cochise.edu>
+[Kentucky State University](/pages/kentucky-state-university.md) - <www.kysu.edu>
 
 ## Louisiana
-[Dillard University](/pages/j-f-drake-state-community-and-technical-college.md) - <https://www.drakestate.edu>
+[Dillard University](/pages/dillard-university.md) - <www.dillard.edu>
 
-[Grambling State University](/pages/miles-college.md) - <www.miles.edu>
+[Grambling State University](/pages/grambling-state-university.md) - <www.gram.edu>
 
-[Southern University at New Orleans](/pages/empire-beauty-school-chandler.md) - <www.empire.edu>
+[Southern University at New Orleans](/pages/southern-university-at-new-orleans.md) - <www.suno.edu>
 
-[Southern University at Shreveport](/pages/cortiva-institute-tucson.md) - <www.cortiva.com/>
+[Southern University at Shreveport](/pages/southern-university-at-shreveport.md) - <www.susla.edu>
 
-[Southern University and A&M College](/pages/avalon-school-of-cosmetology-mesa.md) - <avalon.edu/locations/mesa-az/>
+[Southern University and A&M College](/pages/southern-university-and-a-m-college.md) - <www.subr.edu>
 
-[Xavier University of Louisiana](/pages/roberto-venn-school-of-luthiery.md) - <www.roberto-venn.com>
+[Xavier University of Louisiana](/pages/xavier-university-of-louisiana.md) - <https://www.xula.edu>
 
 ## Maryland
-[Bowie State University](/pages/coastal-alabama-community-college.md) - <www.coastalalabama.edu>
+[Bowie State University](/pages/bowie-state-university.md) - <www.bowiestate.edu>
 
-[Coppin State University](/pages/herzing-university-birmingham.md) - <https://www.herzing.edu/>
+[Coppin State University](/pages/coppin-state-university.md) - <www.coppin.edu>
 
-[University of Maryland Eastern Shore](/pages/united-states-sports-academy.md) - <www.ussa.edu>
+[University of Maryland Eastern Shore](/pages/university-of-maryland-eastern-shore.md) - <www.umes.edu>
 
-[Morgan State University](/pages/alaska-pacific-university.md) - <www.alaskapacific.edu>
+[Morgan State University](/pages/morgan-state-university.md) - <https://www.morgan.edu>
 
 ## Mississippi
-[Alcorn State University](/pages/university-of-alabama-in-huntsville.md) - <www.uah.edu>
+[Alcorn State University](/pages/alcorn-state-university.md) - <www.alcorn.edu>
 
-[Coahoma Community College](/pages/george-c-wallace-state-community-college-selma.md) - <www.wccs.edu>
+[Coahoma Community College](/pages/coahoma-community-college.md) - <www.coahomacc.edu>
 
-[Hinds Community College at Utica](/pages/northwest-shoals-community-college.md) - <https://www.nwscc.edu>
+[Jackson State University](/pages/jackson-state-university.md) - <www.jsums.edu>
 
-[Jackson State University](/pages/bishop-state-community-college.md) - <www.bishop.edu>
+[Mississippi Valley State University](/pages/mississippi-valley-state-university.md) - <www.mvsu.edu>
 
-[Mississippi Valley State University](/pages/alaska-bible-college.md) - <www.akbible.edu/>
+[Rust College](/pages/rust-college.md) - <www.rustcollege.edu>
 
-[Rust College](/pages/arizona-state-university-tempe.md) - <www.asu.edu/>
-
-[Tougaloo College](/pages/dine-college.md) - <https://www.dinecollege.edu>
+[Tougaloo College](/pages/tougaloo-college.md) - <www.tougaloo.edu>
 
 ## Missouri
-[Harris-Stowe State University](/pages/university-of-montevallo.md) - <www.montevallo.edu>
-
-[Lincoln University of Missouri](/pages/troy-university.md) - <www.troy.edu>
+[Harris-Stowe State University](/pages/harris-stowe-state-university.md) - <www.hssu.edu>
 
 ## North Carolina
-[Barber-Scotia College](/pages/auburn-university-at-montgomery.md) - <www.aum.edu>
+[Bennett College](/pages/bennett-college.md) - <www.bennett.edu>
 
-[Bennett College](/pages/birmingham-southern-college.md) - <www.bsc.edu/>
+[Elizabeth City State University](/pages/elizabeth-city-state-university.md) - <www.ecsu.edu>
 
-[Elizabeth City State University](/pages/jefferson-state-community-college.md) - <www.jeffersonstate.edu/>
+[Fayetteville State University](/pages/fayetteville-state-university.md) - <https://www.uncfsu.edu>
 
-[Fayetteville State University](/pages/john-c-calhoun-state-community-college.md) - <https://calhoun.edu>
+[Johnson C. Smith University](/pages/johnson-c-smith-university.md) - <www.jcsu.edu>
 
-[Johnson C. Smith University](/pages/selma-university.md) - <selmauniversity.edu>
+[Livingstone College](/pages/livingstone-college.md) - <www.livingstone.edu>
 
-[Livingstone College](/pages/tuskegee-university.md) - <www.tuskegee.edu>
+[North Carolina Central University](/pages/north-carolina-central-university.md) - <www.nccu.edu>
 
-[North Carolina Agricultural & Technical State University](/pages/empire-beauty-school-tucson.md) - <www.empire.edu>
+[Shaw University](/pages/shaw-university.md) - <www.shawu.edu>
 
-[North Carolina Central University](/pages/carrington-college-phoenix-north.md) - <https://carrington.edu/>
-
-[Shaw University](/pages/southwest-university-of-visual-arts-tucson.md) - <www.suva.edu>
-
-[St. Augustine's University](/pages/school-of-architecture-at-taliesin.md) - <www.taliesin.edu>
-
-[Winston-Salem State University](/pages/rio-salado-college.md) - <www.rio.maricopa.edu>
+[Winston-Salem State University](/pages/winston-salem-state-university.md) - <www.wssu.edu>
 
 ## Ohio
-[Central State University](/pages/faulkner-university.md) - <www.faulkner.edu>
+[Central State University](/pages/central-state-university.md) - <www.centralstate.edu>
 
-[Payne Theological Seminary](/pages/arizona-academy-of-beauty-east.md) - <www.arizonaacademy.com>
+[Payne Theological Seminary](/pages/payne-theological-seminary.md) - <www.payne.edu>
 
-[Wilberforce University](/pages/prescott-college.md) - <https://www.prescott.edu>
+[Wilberforce University](/pages/wilberforce-university.md) - <www.wilberforce.edu>
 
 ## Oklahoma
-[Langston University](/pages/spring-hill-college.md) - <www.shc.edu>
+[Langston University](/pages/langston-university.md) - <www.langston.edu>
 
 ## Pennsylvania
-[Cheyney University of Pennsylvania](/pages/gadsden-state-community-college.md) - <www.gadsdenstate.edu>
+[Cheyney University of Pennsylvania](/pages/cheyney-university-of-pennsylvania.md) - <www.cheyney.edu>
 
-[Lincoln University](/pages/h-councill-trenholm-state-community-college.md) - <www.trenholmstate.edu>
+[Lincoln University](/pages/lincoln-university.md) - <www.lincolnuca.edu>
+
+[Lincoln University](/pages/lincoln-university.md) - <https://www.lincolnu.edu>
+
+[Lincoln University](/pages/lincoln-university.md) - <www.lincoln.edu>
 
 ## South Carolina
-[Allen University](/pages/alabama-state-university.md) - <www.alasu.edu>
+[Allen University](/pages/allen-university.md) - <www.allenuniversity.edu>
 
-[Benedict College](/pages/auburn-university.md) - <www.auburn.edu>
+[Benedict College](/pages/benedict-college.md) - <www.benedict.edu>
 
-[Claflin University](/pages/new-beginning-college-of-cosmetology.md) - <www.nbccosmetology.com>
+[Claflin University](/pages/claflin-university.md) - <www.claflin.edu>
 
-[Clinton College](/pages/george-c-wallace-state-community-college-hanceville.md) - <www.wallacestate.edu>
+[Clinton College](/pages/clinton-college.md) - <www.clintoncollege.edu>
 
-[Denmark Technical College](/pages/heritage-christian-university.md) - <www.hcu.edu>
+[Denmark Technical College](/pages/denmark-technical-college.md) - <www.denmarktech.edu>
 
-[Morris College](/pages/charter-college.md) - <https://www.chartercollege.edu>
+[Morris College](/pages/morris-college.md) - <https://www.morris.edu>
 
-[South Carolina State University](/pages/empire-beauty-school-flagstaff.md) - <www.empire.edu>
+[South Carolina State University](/pages/south-carolina-state-university.md) - <www.scsu.edu>
 
-[Voorhees College](/pages/pima-medical-institute-tucson.md) - <pmi.edu>
+[Voorhees College](/pages/voorhees-college.md) - <www.voorhees.edu>
 
 ## Tennessee
-[American Baptist College](/pages/the-university-of-alabama.md) - <www.ua.edu/>
+[American Baptist College](/pages/american-baptist-college.md) - <www.abcnash.edu>
 
-[Fisk University](/pages/judson-college.md) - <www.judson.edu>
+[Fisk University](/pages/fisk-university.md) - <www.fisk.edu>
 
-[Knoxville College](/pages/snead-state-community-college.md) - <www.snead.edu>
+[Lane College](/pages/lane-college.md) - <www.lanecollege.edu>
 
-[Lane College](/pages/university-of-south-alabama.md) - <www.southalabama.edu>
+[Meharry Medical College](/pages/meharry-medical-college.md) - <www.mmc.edu>
 
-[LeMoyne-Owen College](/pages/talladega-college.md) - <www.talladega.edu>
-
-[Meharry Medical College](/pages/bevill-state-community-college.md) - <www.bscc.edu>
-
-[Tennessee State University](/pages/mesa-community-college.md) - <www.mesacc.edu>
+[Tennessee State University](/pages/tennessee-state-university.md) - <www.tnstate.edu>
 
 ## Texas
-[HustonâTillotson University](/pages/northeast-alabama-community-college.md) - <https://www.nacc.edu>
+[Jarvis Christian College](/pages/jarvis-christian-college.md) - <www.jarvis.edu>
 
-[Jarvis Christian College](/pages/samford-university.md) - <www.samford.edu>
+[Paul Quinn College](/pages/paul-quinn-college.md) - <www.pqc.edu>
 
-[Paul Quinn College](/pages/collegeamerica-flagstaff.md) - <www.collegeamerica.edu>
+[Prairie View A&M University](/pages/prairie-view-a-m-university.md) - <www.pvamu.edu>
 
-[Prairie View A&M University](/pages/brookline-college-phoenix.md) - <www.brooklinecollege.edu>
+[Southwestern Christian College](/pages/southwestern-christian-college.md) - <www.swcc.edu>
 
-[Southwestern Christian College](/pages/eastern-arizona-college.md) - <www.eac.edu>
+[St. Philip's College](/pages/st-philip-s-college.md) - <www.alamo.edu/spc>
 
-[St. Philip's College](/pages/glendale-community-college.md) - <www.gccaz.edu>
+[Texas College](/pages/texas-college.md) - <www.texascollege.edu>
 
-[St. Philip's College](/pages/glendale-community-college.md) - <www.glendale.edu>
+[Texas Southern University](/pages/texas-southern-university.md) - <www.tsu.edu>
 
-[Texas College](/pages/mohave-community-college.md) - <https://www.mohave.edu>
-
-[Texas Southern University](/pages/universal-technical-institute-of-arizona-inc-motorcycle-mechanics-institute-division.md) - <www.uti.edu/>
-
-[Wiley College](/pages/refrigeration-school-inc.md) - <https://www.refrigerationschool.com>
+[Wiley College](/pages/wiley-college.md) - <wileyc.edu>
 
 ## United States Virgin Islands
-[University of the Virgin Islands](/pages/ottawa-university-phoenix.md) - <www.ottawa.edu>
+[University of the Virgin Islands](/pages/university-of-the-virgin-islands.md) - <www.uvi.edu>
 
 ## Virginia
-[Hampton University](/pages/university-of-mobile.md) - <www.umobile.edu>
+[Hampton University](/pages/hampton-university.md) - <www.hamptonu.edu>
 
-[Norfolk State University](/pages/alaska-career-college.md) - <www.alaskacareercollege.edu>
+[Norfolk State University](/pages/norfolk-state-university.md) - <www.nsu.edu>
 
-[Virginia State University](/pages/phoenix-college.md) - <www.phoenixcollege.edu>
+[Virginia State University](/pages/virginia-state-university.md) - <www.vsu.edu>
 
-[Virginia Union University](/pages/cortiva-institute-scottsdale.md) - <www.cortiva.com/>
+[Virginia Union University](/pages/virginia-union-university.md) - <www.vuu.edu>
 
-[Virginia University of Lynchburg](/pages/pima-community-college.md) - <www.pima.edu>
+[Virginia University of Lynchburg](/pages/virginia-university-of-lynchburg.md) - <www.vul.edu>
 
 ## West Virginia
-[Bluefield State College](/pages/enterprise-state-community-college.md) - <www.escc.edu>
+[Bluefield State College](/pages/bluefield-state-college.md) - <https://bluefieldstate.edu>
 
-[West Virginia State University](/pages/pima-medical-institute-albuquerque.md) - <pmi.edu>
+[West Virginia State University](/pages/west-virginia-state-university.md) - <www.wvstateu.edu>
 
 #### source: 
 - [Wikipedia List of HBCUs](https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities)

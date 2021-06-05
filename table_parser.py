@@ -6,10 +6,11 @@ from slugify import slugify
 
 
 df = pd.read_csv('Most-Recent-Cohorts-All-Data-Elements.csv', usecols=['INSTNM','INSTURL'])
+df['INSTURL'] = df['INSTURL'].str.rstrip('/')
 df['slug'] = df.apply(lambda x: slugify(x['INSTNM']), axis=1)
 
 base_hbcus = pd.read_html("HBCU_LIST.html")[0]
-base_hbcus['slug'] = df.apply(lambda x: slugify(x['INSTNM']), axis=1)
+base_hbcus['slug'] = base_hbcus.apply(lambda x: slugify(x['School']), axis=1)
 
 hbcus = pd.merge(base_hbcus, df, on='slug')
 hbcus.rename(columns={"Regionally accredited[3]": "Regionally Accredited"}, inplace=True)
