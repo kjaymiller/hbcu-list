@@ -18,7 +18,7 @@ hbcus.rename(columns={"Regionally accredited[3]": "Regionally Accredited"}, inpl
 def _gen_slug_link(school):
     """create markdown link to associated pages object"""
 
-    return f"[{school.School}](/pages/{school.slug}.md) - <{school.INSTURL}>"
+    return f"[{school.School}](/pages/{school.slug}.md) - {school.INSTURL}"
 
 
 def gen_readme():
