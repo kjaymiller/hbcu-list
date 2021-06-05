@@ -46,7 +46,7 @@ for df in (hbcus, pbis):
     # STATE DATA
     from_dict(
             df=df,
-            csv_file="ST_FIPS.CSV",
+            csv_file="translations/ST_FIPS.CSV",
             index_col='ST_FIPS',
             value='STATE',
     )
@@ -54,7 +54,7 @@ for df in (hbcus, pbis):
     # CONTROL DATA
     from_dict(
             df=df,
-            csv_file="CONTROL.CSV",
+            csv_file="translations/CONTROL.CSV",
             index_col='CONTROL',
             value='CONTROL_VALUE',
             fill_value=0,
@@ -64,7 +64,7 @@ for df in (hbcus, pbis):
     df.loc[df['RELAFFIL'] > 107, 'RELAFFIL'] = 99
     from_dict(
             df=df,
-            csv_file="RELAFFIL.CSV",
+            csv_file="translations/RELAFFIL.CSV",
             index_col='RELAFFIL',
             value='RELIGIOUS',
             fill_value=-1,
