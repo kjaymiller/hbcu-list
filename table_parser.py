@@ -23,7 +23,7 @@ column_values = [
 df = pd.read_csv("Most-Recent-Cohorts-All-Data-Elements.csv", usecols=column_values)
 
 # Create DATAFRAME FOR ACTIVE HBCUs and PBIs
-hbcus = df.loc[((df.PBI == 1) | (df.HBCU == 1)) & (df.CURROPER == 1)]
+hbcus = df.loc[(df.HBCU == 1) & (df.CURROPER == 1)]
 
 
 hbcus['slug'] = hbcus.apply(lambda x: slugify(x.INSTNM), axis=1)
