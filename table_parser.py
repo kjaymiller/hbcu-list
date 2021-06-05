@@ -82,26 +82,33 @@ def gen_list(
         ):
     """build readme with readme_templates"""
 
-    state_sections = {}
+    states=[]
 
-    for df_name, df in (('hbcus', hbcus), ('pbis', pbis)):
+    for df in (hbcus, pbis):
         df["readme"]= df.apply(_gen_slug_link, axis=1)
-        states_list = []
 
-        for name in sorted(df["ST_FIPS"].unique()):
+    for name in sorted(df["ST_FIPS"].unique()):
+        state_sections = {}
+
+        for df_name, df in (('hbcus', hbcus), ('pbis', pbis)):
             schools = df[df["ST_FIPS"] == name]["readme"].values
             schools = "\n\n".join(schools)
-            state_section = f"### {name}\n{schools}"
-            states_list.append(state_section)
+            state_sections[df_name] = schools
 
-        state_sections[df_name] = "\n\n".join(states_list)
-
-    filename.write_text(f"""# {title}
-## HBCUs by State
+        state_section = f"""## {name}
+### HBCUs
 {state_sections['hbcus']}
 
-## PBI by State
-{state_sections['pbis']}
+### PBIs
+{state_sections['pbis']}"""
+
+        states.append(state_section)
+
+
+
+    states = '\n'.join(states)
+    filename.write_text(f"""# {title}
+{states}
 
 ---
 #### source: 
