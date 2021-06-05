@@ -6,7 +6,16 @@ from slugify import slugify
 
 # Translate ST_FIPS to State
 ST_FIPS = pd.read_csv('ST_FIPS.csv')
-df = pd.read_csv('Most-Recent-Cohorts-All-Data-Elements.csv') # TODO: `use_cols` to reduce the size of imported data
+
+column_values = [
+        'INSTNM',
+        'INSTURL',
+        'ST_FIPS',
+        'PBI',
+        'HBCU',
+        'CURROPER',
+        ]
+df = pd.read_csv('Most-Recent-Cohorts-All-Data-Elements.csv', usecols=column_values) # TODO: `use_cols` to reduce the size of imported data
 
 hbcus = df.loc[((df.PBI == 1) | (df.HBCU==1)) & (df.CURROPER==1)]
 hbcus['slug'] = df.apply(lambda x: slugify(x['INSTNM']), axis=1)
@@ -25,8 +34,6 @@ def gen_readme():
 
     states_list = []
 
-    for d in hbcus.columns:
-        print(d)
     for name in sorted(hbcus["STATE"].unique()):
         schools = hbcus[hbcus["STATE"] == name]['readme'].values
         schools = "\n\n".join(schools)
@@ -45,7 +52,7 @@ def gen_readme():
 #### license: [MIT License](/LICENSE)""")
 
 
-def build_pages():
+def build_pages(): # TODO REMOVE DEPENDENCY ON WIKIPEDIA
     hbcus.set_index("School")
     hbcu_json = hbcus.to_dict(orient="records")
 
