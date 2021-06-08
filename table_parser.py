@@ -1,79 +1,61 @@
+import os
+import json
 import pathlib
 
+import eland as ed
 import pandas as pd
+from elasticsearch import Elasticsearch
 from slugify import slugify
-
 from typer import Typer
 
 app = Typer()
 
-column_values = [
-    "INSTNM",
-    "INSTURL",
-    "CITY",
-    "ST_FIPS",
-    "PBI",
-    "HBCU",
-    "CURROPER",
-    "LATITUDE",
-    "LONGITUDE",
-    "MENONLY",
-    "WOMENONLY",
-    "CONTROL",
-    "RELAFFIL",
-]
+
+column_values = {
+        "INSTNM": str,
+        "INSTURL": str,
+        "CITY": str,
+        "ST_FIPS": int,
+        "PBI": float,
+        "HBCU": float,
+        "CURROPER": float,
+        "LATITUDE": float,
+        "LONGITUDE": float,
+        "MENONLY": float,
+        "WOMENONLY": float,
+        "CONTROL": int,
+        "RELAFFIL": str,
+    }
+
+with open("translations/control.json") as j_file:
+    control_json = json.load(j_file)
+    
+with open("translations/relaffil.json") as j_file:
+    relaffil_json = json.load(j_file)
+
+with open("translations/st_fips.json") as j_file:
+    st_fips_json = json.load(j_file)
+
+converters = {
+        "ST_FIPS": lambda x:st_fips_json.get(str(x), "Unknown"),
+        "RELAFFIL": lambda x:relaffil_json.get(str(x), "None"),
+        "CONTROL": lambda x:control_json.get(str(x), "Unknown"),
+        }
 
 base_df = pd.read_csv(
-    "base_data/Most-Recent-Cohorts-All-Data-Elements.csv", usecols=column_values
+    "base_data/Most-Recent-Cohorts-All-Data-Elements.csv",
+    usecols=list(column_values.keys()),
+    converters=converters,
+    dtype=column_values,
 )
+
+
+base_df.fillna(0, inplace=True)
+base_df['location'] = base_df.apply(lambda x:f"{x.LATITUDE}, {x.LONGITUDE}", axis=1)
 
 # Create DATAFRAME FOR ACTIVE HBCUs and PBIs
 hbcus = base_df.loc[(base_df.HBCU == 1) & (base_df.CURROPER == 1)]
 pbis = base_df.loc[(base_df.PBI == 1) & (base_df.CURROPER == 1)]
-
-
-def from_dict(df, csv_file, index_col, value, fill_value=0):
-    dict_from_pandas = pd.read_csv(csv_file, index_col=index_col).to_dict(
-        orient="index"
-    )
-    df[index_col].fillna(fill_value, inplace=True)
-    df[index_col] = df.apply(lambda x: dict_from_pandas[x[index_col]][value], axis=1)
-
-
-for df in (hbcus, pbis):
-    df["slug"] = df.apply(lambda x: slugify(x.INSTNM), axis=1)
-
-    # CREATE LOCATION COLUMN
-    df["location"] = df.apply(lambda x: [x.LATITUDE, x.LONGITUDE], axis=1)
-
-    # Replace Data from
-    # STATE DATA
-    from_dict(
-        df=df,
-        csv_file="translations/ST_FIPS.CSV",
-        index_col="ST_FIPS",
-        value="STATE",
-    )
-
-    # CONTROL DATA
-    from_dict(
-        df=df,
-        csv_file="translations/CONTROL.CSV",
-        index_col="CONTROL",
-        value="CONTROL_VALUE",
-        fill_value=0,
-    )
-
-    # RELIGIOUS DATA -  Patch Found Invalid VALUE
-    df.loc[df["RELAFFIL"] > 107, "RELAFFIL"] = 99
-    from_dict(
-        df=df,
-        csv_file="translations/RELAFFIL.CSV",
-        index_col="RELAFFIL",
-        value="RELIGIOUS",
-        fill_value=-1,
-    )
-
 
 def _gen_slug_link(school):
     """create markdown link to associated pages object"""
@@ -123,6 +105,33 @@ def gen_list(
 
 #### license: [MIT License](/LICENSE)"""
     )
+
+
+# Elastic Load Data
+client = Elasticsearch(
+    cloud_id=os.environ.get("ES_CLOUD_ID"),
+    http_auth=(
+        os.environ.get("ES_USERNAME"),
+        os.environ.get("ES_PASSWORD"),
+    ),
+)
+
+
+es_type_overrides = {
+        "location": "geo_point",
+        }
+
+@app.command()
+def load_to_es():
+        ed.pandas_to_eland(
+            pd_df=base_df,
+            es_client=client,
+            es_dest_index=f"US_COLLEGES".lower(),
+            es_if_exists="replace",
+            es_refresh=True,
+            use_pandas_index_for_es_ids=False,
+            es_type_overrides = es_type_overrides,
+        )
 
 
 @app.command()

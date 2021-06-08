@@ -1,3 +1,7 @@
+black
+isort
+typer
 pandas
 lxml
 python-slugify
+eland

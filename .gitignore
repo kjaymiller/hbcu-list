@@ -276,4 +276,6 @@ dmypy.json
 cython_debug/
 
 base_data/
+.env
+.envrc
 *.ipynb

@@ -4,19 +4,64 @@
 #
 #    pip-compile
 #
+appdirs==1.4.4
+    # via black
+black==21.5b2
+    # via -r requirements.in
+certifi==2021.5.30
+    # via elasticsearch
+click==7.1.2
+    # via
+    #   black
+    #   typer
+cycler==0.10.0
+    # via matplotlib
+eland==7.10.1b1
+    # via -r requirements.in
+elasticsearch==7.13.1
+    # via eland
+isort==5.8.0
+    # via -r requirements.in
+kiwisolver==1.3.1
+    # via matplotlib
 lxml==4.6.3
     # via -r requirements.in
+matplotlib==3.4.2
+    # via eland
+mypy-extensions==0.4.3
+    # via black
 numpy==1.20.3
-    # via pandas
+    # via
+    #   eland
+    #   matplotlib
+    #   pandas
 pandas==1.2.4
-    # via -r requirements.in
+    # via
+    #   -r requirements.in
+    #   eland
+pathspec==0.8.1
+    # via black
+pillow==8.2.0
+    # via matplotlib
+pyparsing==2.4.7
+    # via matplotlib
 python-dateutil==2.8.1
-    # via pandas
+    # via
+    #   matplotlib
+    #   pandas
 python-slugify==5.0.2
     # via -r requirements.in
 pytz==2021.1
     # via pandas
+regex==2021.4.4
+    # via black
 six==1.16.0
     # via python-dateutil
 text-unidecode==1.3
     # via python-slugify
+toml==0.10.2
+    # via black
+typer==0.3.2
+    # via -r requirements.in
+urllib3==1.26.5
+    # via elasticsearch
