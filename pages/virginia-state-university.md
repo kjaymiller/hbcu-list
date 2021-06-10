@@ -1,5 +1,4 @@
 
-Virginia State University
 ---
 **INSTNM**: Virginia State University
 
@@ -17,26 +16,6 @@ Virginia State University
 
 **LONGITUDE**: -77.419026
 
-**HBCU**: 1.0
-
-**PBI**: 0.0
-
-**ANNHI**: 0.0
-
-**TRIBAL**: 0.0
-
-**AANAPII**: 0.0
-
-**HSI**: 0.0
-
-**NANTI**: 0.0
-
-**MENONLY**: 0.0
-
-**WOMENONLY**: 0.0
-
 **RELAFFIL**: None
-
-**CURROPER**: 1.0
 
 **location**: 37.234692, -77.419026

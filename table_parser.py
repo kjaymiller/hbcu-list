@@ -147,8 +147,14 @@ def build_pages():  # TODO REMOVE DEPENDENCY ON WIKIPEDIA
         for row in dfj:
             f_meta = []
 
+            fname = row['INSTNM']
+
             for name, val in row.items():
-                f_meta.append(f"**{name}**: {val}")
+                if val in (1.0, 0.0): 
+                    if val:
+                        fname += f" {name}" 
+                else:
+                    f_meta.append(f"**{name}**: {val}")
 
             ftext = "\n\n".join(f_meta)
 
@@ -157,7 +163,6 @@ def build_pages():  # TODO REMOVE DEPENDENCY ON WIKIPEDIA
 
             page.write_text(
             f"""
-{row['INSTNM']}
 ---
 {ftext}"""
         )
