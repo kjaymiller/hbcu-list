@@ -1,11 +1,11 @@
-# Herzing University-Birmingham PBI
+# Herzing University-Birmingham - PBI
 ### https://www.herzing.edu
 ---
 **CITY**: Birmingham
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Alabama
 

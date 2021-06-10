@@ -1,11 +1,11 @@
-# Peirce College PBI
+# Peirce College - PBI
 ### https://www.peirce.edu
 ---
 **CITY**: Philadelphia
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Pennsylvania
 

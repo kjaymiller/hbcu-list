@@ -1,11 +1,11 @@
-# Clinton College HBCU
+# Clinton College - HBCU
 ### www.clintoncollege.edu
 ---
 **CITY**: Rock Hill
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: South Carolina
 

@@ -1,4 +1,4 @@
-# Essex County College PBI HSI
+# Essex County College - PBI - HSI
 ### www.essex.edu
 ---
 **CITY**: Newark

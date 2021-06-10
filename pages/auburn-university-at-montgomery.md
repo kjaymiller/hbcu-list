@@ -1,4 +1,4 @@
-# Auburn University at Montgomery PBI
+# Auburn University at Montgomery - PBI
 ### www.aum.edu
 ---
 **CITY**: Montgomery

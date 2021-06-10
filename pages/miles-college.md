@@ -1,11 +1,11 @@
-# Miles College HBCU
+# Miles College - HBCU
 ### www.miles.edu
 ---
 **CITY**: Fairfield
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Alabama
 

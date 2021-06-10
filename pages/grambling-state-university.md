@@ -1,4 +1,4 @@
-# Grambling State University HBCU
+# Grambling State University - HBCU
 ### www.gram.edu
 ---
 **CITY**: Grambling

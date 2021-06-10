@@ -1,11 +1,11 @@
-# East-West University PBI
+# East-West University - PBI
 ### www.eastwest.edu
 ---
 **CITY**: Chicago
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Illinois
 

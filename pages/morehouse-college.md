@@ -1,11 +1,11 @@
-# Morehouse College HBCU MENONLY
+# Morehouse College - HBCU - MENONLY
 ### www.morehouse.edu
 ---
 **CITY**: Atlanta
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Georgia
 

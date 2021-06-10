@@ -1,11 +1,11 @@
-# Rust College HBCU
+# Rust College - HBCU
 ### www.rustcollege.edu
 ---
 **CITY**: Holly Springs
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Mississippi
 

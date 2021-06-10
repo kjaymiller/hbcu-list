@@ -1,11 +1,11 @@
-# Martin University PBI
+# Martin University - PBI
 ### www.martin.edu
 ---
 **CITY**: Indianapolis
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Indiana
 

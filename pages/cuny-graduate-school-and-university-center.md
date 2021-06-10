@@ -1,4 +1,4 @@
-# CUNY Graduate School and University Center PBI
+# CUNY Graduate School and University Center - PBI
 ### www.gc.cuny.edu
 ---
 **CITY**: New York

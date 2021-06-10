@@ -1,11 +1,11 @@
-# North Carolina Wesleyan College PBI
+# North Carolina Wesleyan College - PBI
 ### www.ncwc.edu
 ---
 **CITY**: Rocky Mount
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: North Carolina
 

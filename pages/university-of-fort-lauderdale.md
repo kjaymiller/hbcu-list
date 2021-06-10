@@ -1,11 +1,11 @@
-# University of Fort Lauderdale PBI
+# University of Fort Lauderdale - PBI
 ### uftl.edu
 ---
 **CITY**: Lauderhill
 
 **HIGHDEG**: Associate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Florida
 

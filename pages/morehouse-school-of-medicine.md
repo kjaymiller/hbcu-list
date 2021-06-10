@@ -1,11 +1,11 @@
-# Morehouse School of Medicine HBCU
+# Morehouse School of Medicine - HBCU
 ### www.msm.edu
 ---
 **CITY**: Atlanta
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Georgia
 

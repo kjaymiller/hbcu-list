@@ -1,4 +1,4 @@
-# Lawson State Community College HBCU
+# Lawson State Community College - HBCU
 ### www.lawsonstate.edu
 ---
 **CITY**: Birmingham

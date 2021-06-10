@@ -1,11 +1,11 @@
-# Remington College-Memphis Campus PBI
+# Remington College-Memphis Campus - PBI
 ### www.remingtoncollege.edu/memphis-tennessee-career-colleges-overview
 ---
 **CITY**: Memphis
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Tennessee
 

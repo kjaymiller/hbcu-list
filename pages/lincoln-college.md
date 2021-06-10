@@ -1,11 +1,11 @@
-# Lincoln College PBI
+# Lincoln College - PBI
 ### lincolncollege.edu
 ---
 **CITY**: Lincoln
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Illinois
 

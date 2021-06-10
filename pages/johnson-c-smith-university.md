@@ -1,11 +1,11 @@
-# Johnson C Smith University HBCU
+# Johnson C Smith University - HBCU
 ### www.jcsu.edu
 ---
 **CITY**: Charlotte
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: North Carolina
 

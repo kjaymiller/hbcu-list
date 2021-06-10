@@ -1,11 +1,11 @@
-# Remington College-Fort Worth Campus PBI HSI
+# Remington College-Fort Worth Campus - PBI - HSI
 ### www.remingtoncollege.edu/fort-worth-texas-career-schools-overview
 ---
 **CITY**: Fort Worth
 
 **HIGHDEG**: Associate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Texas
 

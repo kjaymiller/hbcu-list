@@ -1,4 +1,4 @@
-# South Louisiana Community College PBI
+# South Louisiana Community College - PBI
 ### https://www.solacc.edu
 ---
 **CITY**: Lafayette

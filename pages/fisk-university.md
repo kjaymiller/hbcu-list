@@ -1,11 +1,11 @@
-# Fisk University HBCU
+# Fisk University - HBCU
 ### www.fisk.edu
 ---
 **CITY**: Nashville
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Tennessee
 

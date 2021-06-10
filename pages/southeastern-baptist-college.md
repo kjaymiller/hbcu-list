@@ -1,11 +1,11 @@
-# Southeastern Baptist College PBI
+# Southeastern Baptist College - PBI
 ### https://www.southeasternbaptist.edu
 ---
 **CITY**: Laurel
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Mississippi
 

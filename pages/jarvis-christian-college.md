@@ -1,11 +1,11 @@
-# Jarvis Christian College HBCU
+# Jarvis Christian College - HBCU
 ### www.jarvis.edu
 ---
 **CITY**: Hawkins
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Texas
 

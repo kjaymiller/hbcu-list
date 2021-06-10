@@ -1,11 +1,11 @@
-# Remington College-North Houston Campus PBI HSI
+# Remington College-North Houston Campus - PBI - HSI
 ### www.remingtoncollege.edu/north-houston-texas-colleges
 ---
 **CITY**: Houston
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Texas
 

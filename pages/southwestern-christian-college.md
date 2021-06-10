@@ -1,11 +1,11 @@
-# Southwestern Christian College HBCU
+# Southwestern Christian College - HBCU
 ### www.swcc.edu
 ---
 **CITY**: Terrell
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Texas
 

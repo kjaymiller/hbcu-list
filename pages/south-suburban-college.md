@@ -1,4 +1,4 @@
-# South Suburban College PBI
+# South Suburban College - PBI
 ### https://www.ssc.edu
 ---
 **CITY**: South Holland

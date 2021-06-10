@@ -1,11 +1,11 @@
-# Spelman College HBCU WOMENONLY
+# Spelman College - HBCU - WOMENONLY
 ### www.spelman.edu
 ---
 **CITY**: Atlanta
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Georgia
 

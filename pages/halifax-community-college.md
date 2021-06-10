@@ -1,4 +1,4 @@
-# Halifax Community College PBI
+# Halifax Community College - PBI
 ### www.halifaxcc.edu
 ---
 **CITY**: Weldon

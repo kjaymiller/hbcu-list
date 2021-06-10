@@ -1,11 +1,11 @@
-# Helms College PBI
+# Helms College - PBI
 ### www.helms.edu
 ---
 **CITY**: Macon
 
 **HIGHDEG**: Associate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Georgia
 

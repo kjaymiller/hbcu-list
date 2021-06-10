@@ -1,11 +1,11 @@
-# Limestone College PBI
+# Limestone College - PBI
 ### www.limestone.edu
 ---
 **CITY**: Gaffney
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: South Carolina
 

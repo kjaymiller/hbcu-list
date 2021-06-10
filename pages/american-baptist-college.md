@@ -1,11 +1,11 @@
-# American Baptist College HBCU
+# American Baptist College - HBCU
 ### www.abcnash.edu
 ---
 **CITY**: Nashville
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Tennessee
 

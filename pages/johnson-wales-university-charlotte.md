@@ -1,11 +1,11 @@
-# Johnson & Wales University-Charlotte PBI
+# Johnson & Wales University-Charlotte - PBI
 ### https://www.jwu.edu/campuses/charlotte/index.html
 ---
 **CITY**: Charlotte
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: North Carolina
 

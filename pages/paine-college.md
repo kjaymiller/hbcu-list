@@ -1,11 +1,11 @@
-# Paine College HBCU
+# Paine College - HBCU
 ### www.paine.edu
 ---
 **CITY**: Augusta
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Georgia
 

@@ -1,4 +1,4 @@
-# Morgan State University HBCU
+# Morgan State University - HBCU
 ### https://www.morgan.edu
 ---
 **CITY**: Baltimore

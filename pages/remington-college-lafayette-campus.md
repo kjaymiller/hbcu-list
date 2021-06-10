@@ -1,11 +1,11 @@
-# Remington College-Lafayette Campus PBI
+# Remington College-Lafayette Campus - PBI
 ### www.remingtoncollege.edu/louisiana-career-school-overview
 ---
 **CITY**: Lafayette
 
 **HIGHDEG**: Associate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Louisiana
 

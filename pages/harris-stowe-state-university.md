@@ -1,4 +1,4 @@
-# Harris-Stowe State University HBCU
+# Harris-Stowe State University - HBCU
 ### www.hssu.edu
 ---
 **CITY**: Saint Louis

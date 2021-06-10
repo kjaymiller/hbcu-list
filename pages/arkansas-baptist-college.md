@@ -1,11 +1,11 @@
-# Arkansas Baptist College HBCU
+# Arkansas Baptist College - HBCU
 ### www.arkansasbaptist.edu
 ---
 **CITY**: Little Rock
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Arkansas
 

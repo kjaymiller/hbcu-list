@@ -1,4 +1,4 @@
-# Northwest Louisiana Technical College PBI
+# Northwest Louisiana Technical College - PBI
 ### www.nwltc.edu
 ---
 **CITY**: Minden

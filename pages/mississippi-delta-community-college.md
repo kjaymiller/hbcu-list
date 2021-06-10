@@ -1,4 +1,4 @@
-# Mississippi Delta Community College PBI
+# Mississippi Delta Community College - PBI
 ### www.msdelta.edu
 ---
 **CITY**: Moorhead

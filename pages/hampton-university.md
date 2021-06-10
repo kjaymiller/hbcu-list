@@ -1,11 +1,11 @@
-# Hampton University HBCU
+# Hampton University - HBCU
 ### www.hamptonu.edu
 ---
 **CITY**: Hampton
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Virginia
 

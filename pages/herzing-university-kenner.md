@@ -1,11 +1,11 @@
-# Herzing University-Kenner PBI
+# Herzing University-Kenner - PBI
 ### https://www.herzing.edu
 ---
 **CITY**: Kenner
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Louisiana
 

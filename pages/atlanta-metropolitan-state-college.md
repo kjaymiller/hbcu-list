@@ -1,4 +1,4 @@
-# Atlanta Metropolitan State College PBI
+# Atlanta Metropolitan State College - PBI
 ### www.atlm.edu
 ---
 **CITY**: Atlanta

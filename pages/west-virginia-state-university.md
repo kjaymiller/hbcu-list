@@ -1,4 +1,4 @@
-# West Virginia State University HBCU
+# West Virginia State University - HBCU
 ### www.wvstateu.edu
 ---
 **CITY**: Institute

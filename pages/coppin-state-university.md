@@ -1,4 +1,4 @@
-# Coppin State University HBCU
+# Coppin State University - HBCU
 ### www.coppin.edu
 ---
 **CITY**: Baltimore

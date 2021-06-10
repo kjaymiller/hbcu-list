@@ -1,11 +1,11 @@
-# Charlotte Christian College and Theological Seminary PBI
+# Charlotte Christian College and Theological Seminary - PBI
 ### www.charlottechristian.edu
 ---
 **CITY**: Charlotte
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: North Carolina
 

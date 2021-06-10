@@ -1,4 +1,4 @@
-# University of the Virgin Islands HBCU
+# University of the Virgin Islands - HBCU
 ### www.uvi.edu
 ---
 **CITY**: Charlotte Amalie

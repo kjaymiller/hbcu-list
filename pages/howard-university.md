@@ -1,11 +1,11 @@
-# Howard University HBCU
+# Howard University - HBCU
 ### www.howard.edu
 ---
 **CITY**: Washington
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: District of Columbia
 

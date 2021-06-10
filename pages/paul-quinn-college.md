@@ -1,11 +1,11 @@
-# Paul Quinn College HBCU
+# Paul Quinn College - HBCU
 ### www.pqc.edu
 ---
 **CITY**: Dallas
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Texas
 

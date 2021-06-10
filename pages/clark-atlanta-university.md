@@ -1,11 +1,11 @@
-# Clark Atlanta University HBCU
+# Clark Atlanta University - HBCU
 ### www.cau.edu
 ---
 **CITY**: Atlanta
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Georgia
 

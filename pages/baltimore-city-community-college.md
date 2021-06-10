@@ -1,4 +1,4 @@
-# Baltimore City Community College PBI
+# Baltimore City Community College - PBI
 ### www.bccc.edu
 ---
 **CITY**: Baltimore

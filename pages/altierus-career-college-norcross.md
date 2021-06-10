@@ -1,11 +1,11 @@
-# Altierus Career College-Norcross PBI
+# Altierus Career College-Norcross - PBI
 ### https://www.altierus.edu
 ---
 **CITY**: Norcross
 
 **HIGHDEG**: Certificate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Georgia
 

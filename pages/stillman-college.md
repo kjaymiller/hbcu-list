@@ -1,11 +1,11 @@
-# Stillman College HBCU
+# Stillman College - HBCU
 ### https://stillman.edu
 ---
 **CITY**: Tuscaloosa
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Alabama
 

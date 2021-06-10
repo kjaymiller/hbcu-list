@@ -1,11 +1,11 @@
-# Shaw University HBCU
+# Shaw University - HBCU
 ### www.shawu.edu
 ---
 **CITY**: Raleigh
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: North Carolina
 

@@ -1,11 +1,11 @@
-# Virginia University of Lynchburg HBCU
+# Virginia University of Lynchburg - HBCU
 ### www.vul.edu
 ---
 **CITY**: Lynchburg
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Virginia
 

@@ -1,11 +1,11 @@
-# Allen University HBCU
+# Allen University - HBCU
 ### www.allenuniversity.edu
 ---
 **CITY**: Columbia
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: South Carolina
 

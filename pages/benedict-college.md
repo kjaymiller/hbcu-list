@@ -1,11 +1,11 @@
-# Benedict College HBCU
+# Benedict College - HBCU
 ### www.benedict.edu
 ---
 **CITY**: Columbia
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: South Carolina
 

@@ -1,11 +1,11 @@
-# Meharry Medical College HBCU
+# Meharry Medical College - HBCU
 ### www.mmc.edu
 ---
 **CITY**: Nashville
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Tennessee
 

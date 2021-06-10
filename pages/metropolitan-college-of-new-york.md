@@ -1,11 +1,11 @@
-# Metropolitan College of New York PBI HSI
+# Metropolitan College of New York - PBI - HSI
 ### https://www.mcny.edu
 ---
 **CITY**: New York
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: New York
 

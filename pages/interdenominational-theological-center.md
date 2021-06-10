@@ -1,11 +1,11 @@
-# Interdenominational Theological Center HBCU
+# Interdenominational Theological Center - HBCU
 ### www.itc.edu
 ---
 **CITY**: Atlanta
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Georgia
 

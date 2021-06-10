@@ -1,11 +1,11 @@
-# Bethel College PBI
+# Bethel College - PBI
 ### bcva.edu
 ---
 **CITY**: Hampton
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Virginia
 

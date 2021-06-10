@@ -1,11 +1,11 @@
-# Tougaloo College HBCU
+# Tougaloo College - HBCU
 ### www.tougaloo.edu
 ---
 **CITY**: Tougaloo
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Mississippi
 

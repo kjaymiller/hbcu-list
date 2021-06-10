@@ -1,4 +1,4 @@
-# Central State University HBCU
+# Central State University - HBCU
 ### www.centralstate.edu
 ---
 **CITY**: Wilberforce

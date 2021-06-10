@@ -1,11 +1,11 @@
-# Talladega College HBCU
+# Talladega College - HBCU
 ### www.talladega.edu
 ---
 **CITY**: Talladega
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Alabama
 

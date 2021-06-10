@@ -1,11 +1,11 @@
-# City College-Gainesville PBI
+# City College-Gainesville - PBI
 ### https://www.citycollege.edu
 ---
 **CITY**: Gainesville
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Florida
 

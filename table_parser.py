@@ -155,7 +155,7 @@ def build_pages():  # TODO REMOVE DEPENDENCY ON WIKIPEDIA
             for name, val in row.items():
                 if val in (1.0, 0.0): 
                     if val:
-                        f_name += f" {name}" 
+                        f_name += f" - {name}" 
 
                 else:
                     f_meta.append(f"**{name}**: {val}")

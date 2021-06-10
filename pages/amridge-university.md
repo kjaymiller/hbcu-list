@@ -1,11 +1,11 @@
-# Amridge University PBI
+# Amridge University - PBI
 ### www.amridgeuniversity.edu
 ---
 **CITY**: Montgomery
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Alabama
 

@@ -1,11 +1,11 @@
-# Morris College HBCU
+# Morris College - HBCU
 ### https://www.morris.edu
 ---
 **CITY**: Sumter
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: South Carolina
 

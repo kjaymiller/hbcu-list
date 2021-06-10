@@ -1,4 +1,4 @@
-# Piedmont Technical College PBI
+# Piedmont Technical College - PBI
 ### www.ptc.edu
 ---
 **CITY**: Greenwood

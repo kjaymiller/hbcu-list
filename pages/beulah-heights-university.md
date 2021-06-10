@@ -1,11 +1,11 @@
-# Beulah Heights University PBI
+# Beulah Heights University - PBI
 ### www.beulah.edu
 ---
 **CITY**: Atlanta
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Georgia
 

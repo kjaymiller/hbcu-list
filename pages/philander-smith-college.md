@@ -1,11 +1,11 @@
-# Philander Smith College HBCU
+# Philander Smith College - HBCU
 ### https://www.philander.edu
 ---
 **CITY**: Little Rock
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Arkansas
 

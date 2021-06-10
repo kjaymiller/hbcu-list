@@ -1,11 +1,11 @@
-# Remington College-Nashville Campus PBI
+# Remington College-Nashville Campus - PBI
 ### www.remingtoncollege.edu/nashville-tennessee-career-colleges-overview
 ---
 **CITY**: Nashville
 
 **HIGHDEG**: Associate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Tennessee
 

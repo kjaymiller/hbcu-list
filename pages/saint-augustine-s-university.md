@@ -1,11 +1,11 @@
-# Saint Augustine's University HBCU
+# Saint Augustine's University - HBCU
 ### www.st-aug.edu
 ---
 **CITY**: Raleigh
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: North Carolina
 

@@ -1,11 +1,11 @@
-# Bloomfield College PBI HSI
+# Bloomfield College - PBI - HSI
 ### www.bloomfield.edu
 ---
 **CITY**: Bloomfield
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: New Jersey
 

@@ -1,11 +1,11 @@
-# Lane College HBCU
+# Lane College - HBCU
 ### www.lanecollege.edu
 ---
 **CITY**: Jackson
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Tennessee
 

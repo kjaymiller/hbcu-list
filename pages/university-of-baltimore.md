@@ -1,4 +1,4 @@
-# University of Baltimore PBI
+# University of Baltimore - PBI
 ### www.ubalt.edu
 ---
 **CITY**: Baltimore

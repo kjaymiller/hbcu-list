@@ -1,4 +1,4 @@
-# Cheyney University of Pennsylvania HBCU
+# Cheyney University of Pennsylvania - HBCU
 ### www.cheyney.edu
 ---
 **CITY**: Cheyney

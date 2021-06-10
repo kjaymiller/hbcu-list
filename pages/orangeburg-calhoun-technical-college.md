@@ -1,4 +1,4 @@
-# Orangeburg Calhoun Technical College PBI
+# Orangeburg Calhoun Technical College - PBI
 ### www.octech.edu
 ---
 **CITY**: Orangeburg

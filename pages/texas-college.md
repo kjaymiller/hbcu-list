@@ -1,11 +1,11 @@
-# Texas College HBCU
+# Texas College - HBCU
 ### www.texascollege.edu
 ---
 **CITY**: Tyler
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Texas
 

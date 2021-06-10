@@ -1,4 +1,4 @@
-# Atlanta Technical College PBI
+# Atlanta Technical College - PBI
 ### https://www.atlantatech.edu
 ---
 **CITY**: Atlanta

@@ -1,11 +1,11 @@
-# City College-Fort Lauderdale PBI
+# City College-Fort Lauderdale - PBI
 ### https://www.citycollege.edu
 ---
 **CITY**: Fort Lauderdale
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Florida
 

@@ -1,11 +1,11 @@
-# Trinity Washington University PBI HSI WOMENONLY
+# Trinity Washington University - PBI - HSI - WOMENONLY
 ### www.trinitydc.edu
 ---
 **CITY**: Washington
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: District of Columbia
 

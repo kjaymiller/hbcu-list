@@ -1,11 +1,11 @@
-# Herzing University-Atlanta PBI
+# Herzing University-Atlanta - PBI
 ### https://www.herzing.edu
 ---
 **CITY**: Atlanta
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Georgia
 

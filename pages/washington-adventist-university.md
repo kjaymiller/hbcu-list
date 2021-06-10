@@ -1,11 +1,11 @@
-# Washington Adventist University PBI
+# Washington Adventist University - PBI
 ### https://www.wau.edu
 ---
 **CITY**: Takoma Park
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Maryland
 

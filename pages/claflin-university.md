@@ -1,11 +1,11 @@
-# Claflin University HBCU
+# Claflin University - HBCU
 ### www.claflin.edu
 ---
 **CITY**: Orangeburg
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: South Carolina
 

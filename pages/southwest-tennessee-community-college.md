@@ -1,4 +1,4 @@
-# Southwest Tennessee Community College PBI
+# Southwest Tennessee Community College - PBI
 ### www.southwest.tn.edu
 ---
 **CITY**: Memphis

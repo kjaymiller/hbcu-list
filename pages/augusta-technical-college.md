@@ -1,4 +1,4 @@
-# Augusta Technical College PBI
+# Augusta Technical College - PBI
 ### www.augustatech.edu
 ---
 **CITY**: Augusta

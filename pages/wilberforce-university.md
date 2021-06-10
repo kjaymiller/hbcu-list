@@ -1,11 +1,11 @@
-# Wilberforce University HBCU
+# Wilberforce University - HBCU
 ### www.wilberforce.edu
 ---
 **CITY**: Wilberforce
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Ohio
 

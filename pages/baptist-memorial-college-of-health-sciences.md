@@ -1,11 +1,11 @@
-# Baptist Memorial College of Health Sciences PBI
+# Baptist Memorial College of Health Sciences - PBI
 ### www.bchs.edu
 ---
 **CITY**: Memphis
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Tennessee
 

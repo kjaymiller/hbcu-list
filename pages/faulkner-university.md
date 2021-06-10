@@ -1,11 +1,11 @@
-# Faulkner University PBI
+# Faulkner University - PBI
 ### www.faulkner.edu
 ---
 **CITY**: Montgomery
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Alabama
 

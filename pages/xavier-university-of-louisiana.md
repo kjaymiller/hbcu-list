@@ -1,11 +1,11 @@
-# Xavier University of Louisiana HBCU
+# Xavier University of Louisiana - HBCU
 ### https://www.xula.edu
 ---
 **CITY**: New Orleans
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Louisiana
 

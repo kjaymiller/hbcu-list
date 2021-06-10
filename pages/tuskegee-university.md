@@ -1,11 +1,11 @@
-# Tuskegee University HBCU
+# Tuskegee University - HBCU
 ### www.tuskegee.edu
 ---
 **CITY**: Tuskegee
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Alabama
 

@@ -1,4 +1,4 @@
-# Clayton  State University PBI
+# Clayton  State University - PBI
 ### www.clayton.edu
 ---
 **CITY**: Morrow

@@ -1,11 +1,11 @@
-# Simmons College of Kentucky HBCU
+# Simmons College of Kentucky - HBCU
 ### https://www.simmonscollegeky.edu
 ---
 **CITY**: Louisville
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Kentucky
 

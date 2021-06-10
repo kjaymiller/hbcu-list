@@ -1,4 +1,4 @@
-# Northeastern Technical College PBI
+# Northeastern Technical College - PBI
 ### www.netc.edu
 ---
 **CITY**: Cheraw

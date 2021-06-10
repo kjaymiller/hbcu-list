@@ -1,4 +1,4 @@
-# Norfolk State University HBCU
+# Norfolk State University - HBCU
 ### www.nsu.edu
 ---
 **CITY**: Norfolk

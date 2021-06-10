@@ -1,4 +1,4 @@
-# Prairie State College PBI
+# Prairie State College - PBI
 ### www.prairiestate.edu
 ---
 **CITY**: Chicago Heights

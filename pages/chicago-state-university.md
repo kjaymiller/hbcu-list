@@ -1,4 +1,4 @@
-# Chicago State University PBI
+# Chicago State University - PBI
 ### www.csu.edu
 ---
 **CITY**: Chicago

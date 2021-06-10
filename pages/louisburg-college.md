@@ -1,11 +1,11 @@
-# Louisburg College PBI
+# Louisburg College - PBI
 ### www.louisburg.edu
 ---
 **CITY**: Louisburg
 
 **HIGHDEG**: Associate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: North Carolina
 

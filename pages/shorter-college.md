@@ -1,11 +1,11 @@
-# Shorter College HBCU
+# Shorter College - HBCU
 ### www.shortercollege.edu
 ---
 **CITY**: N Little Rock
 
 **HIGHDEG**: Associate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Arkansas
 

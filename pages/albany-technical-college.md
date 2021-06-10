@@ -1,4 +1,4 @@
-# Albany Technical College PBI
+# Albany Technical College - PBI
 ### www.albanytech.edu
 ---
 **CITY**: Albany

@@ -1,11 +1,11 @@
-# Virginia Union University HBCU
+# Virginia Union University - HBCU
 ### www.vuu.edu
 ---
 **CITY**: Richmond
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Virginia
 

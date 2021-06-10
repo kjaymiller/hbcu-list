@@ -1,11 +1,11 @@
-# Belhaven University PBI
+# Belhaven University - PBI
 ### www.belhaven.edu
 ---
 **CITY**: Jackson
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Mississippi
 

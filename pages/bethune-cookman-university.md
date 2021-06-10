@@ -1,11 +1,11 @@
-# Bethune-Cookman University HBCU
+# Bethune-Cookman University - HBCU
 ### www.cookman.edu
 ---
 **CITY**: Daytona Beach
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Florida
 

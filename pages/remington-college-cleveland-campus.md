@@ -1,11 +1,11 @@
-# Remington College-Cleveland Campus PBI
+# Remington College-Cleveland Campus - PBI
 ### www.remingtoncollege.edu/cleveland-ohio-career-schools-overview
 ---
 **CITY**: Cleveland
 
 **HIGHDEG**: Associate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Ohio
 

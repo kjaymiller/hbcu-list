@@ -1,11 +1,11 @@
-# Livingstone College HBCU
+# Livingstone College - HBCU
 ### www.livingstone.edu
 ---
 **CITY**: Salisbury
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: North Carolina
 

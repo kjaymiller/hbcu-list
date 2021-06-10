@@ -1,11 +1,11 @@
-# Wiley College HBCU
+# Wiley College - HBCU
 ### wileyc.edu
 ---
 **CITY**: Marshall
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Texas
 

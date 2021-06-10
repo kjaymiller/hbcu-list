@@ -1,11 +1,11 @@
-# Huston-Tillotson University HBCU
+# Huston-Tillotson University - HBCU
 ### www.htu.edu
 ---
 **CITY**: Austin
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Texas
 

@@ -1,11 +1,11 @@
-# Dillard University HBCU
+# Dillard University - HBCU
 ### www.dillard.edu
 ---
 **CITY**: New Orleans
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Louisiana
 

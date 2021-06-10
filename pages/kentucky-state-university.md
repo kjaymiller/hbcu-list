@@ -1,4 +1,4 @@
-# Kentucky State University HBCU
+# Kentucky State University - HBCU
 ### www.kysu.edu
 ---
 **CITY**: Frankfort

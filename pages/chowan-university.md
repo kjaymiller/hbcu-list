@@ -1,11 +1,11 @@
-# Chowan University PBI
+# Chowan University - PBI
 ### https://www.chowan.edu
 ---
 **CITY**: Murfreesboro
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: North Carolina
 

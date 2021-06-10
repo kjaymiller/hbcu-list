@@ -1,4 +1,4 @@
-# Alabama State University HBCU
+# Alabama State University - HBCU
 ### www.alasu.edu
 ---
 **CITY**: Montgomery

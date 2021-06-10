@@ -1,11 +1,11 @@
-# Oakwood University HBCU
+# Oakwood University - HBCU
 ### https://www2.oakwood.edu
 ---
 **CITY**: Huntsville
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Alabama
 

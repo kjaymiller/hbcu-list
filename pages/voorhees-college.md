@@ -1,11 +1,11 @@
-# Voorhees College HBCU
+# Voorhees College - HBCU
 ### www.voorhees.edu
 ---
 **CITY**: Denmark
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: South Carolina
 

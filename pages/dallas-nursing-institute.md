@@ -1,11 +1,11 @@
-# Dallas Nursing Institute PBI
+# Dallas Nursing Institute - PBI
 ### www.dni.edu
 ---
 **CITY**: Richardson
 
 **HIGHDEG**: Associate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Texas
 

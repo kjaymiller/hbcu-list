@@ -1,4 +1,4 @@
-# Southeast Arkansas College PBI
+# Southeast Arkansas College - PBI
 ### www.seark.edu
 ---
 **CITY**: Pine Bluff

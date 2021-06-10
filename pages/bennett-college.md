@@ -1,11 +1,11 @@
-# Bennett College HBCU WOMENONLY
+# Bennett College - HBCU - WOMENONLY
 ### www.bennett.edu
 ---
 **CITY**: Greensboro
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: North Carolina
 

@@ -1,11 +1,11 @@
-# Gupton Jones College of Funeral Service PBI
+# Gupton Jones College of Funeral Service - PBI
 ### www.gupton-jones.edu
 ---
 **CITY**: Decatur
 
 **HIGHDEG**: Associate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Georgia
 

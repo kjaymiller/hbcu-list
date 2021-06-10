@@ -1,4 +1,4 @@
-# Bishop State Community College HBCU
+# Bishop State Community College - HBCU
 ### www.bishop.edu
 ---
 **CITY**: Mobile

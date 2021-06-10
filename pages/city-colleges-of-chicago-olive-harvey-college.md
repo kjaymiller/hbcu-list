@@ -1,4 +1,4 @@
-# City Colleges of Chicago-Olive-Harvey College PBI
+# City Colleges of Chicago-Olive-Harvey College - PBI
 ### ccc.edu/colleges/olive-harvey/pages/default.aspx
 ---
 **CITY**: Chicago

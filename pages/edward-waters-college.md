@@ -1,11 +1,11 @@
-# Edward Waters College HBCU
+# Edward Waters College - HBCU
 ### www.ewc.edu
 ---
 **CITY**: Jacksonville
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Florida
 

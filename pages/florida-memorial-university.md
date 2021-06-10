@@ -1,11 +1,11 @@
-# Florida Memorial University HBCU
+# Florida Memorial University - HBCU
 ### www.fmuniv.edu
 ---
 **CITY**: Miami Gardens
 
 **HIGHDEG**: Graduate degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Florida
 

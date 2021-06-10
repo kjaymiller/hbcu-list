@@ -1,11 +1,11 @@
-# Le Moyne-Owen College HBCU
+# Le Moyne-Owen College - HBCU
 ### www.loc.edu
 ---
 **CITY**: Memphis
 
 **HIGHDEG**: Bachelor's degree
 
-**CONTROL**: Private nonprofit
+**CONTROL**: Private Non-Profit
 
 **ST_FIPS**: Tennessee
 
