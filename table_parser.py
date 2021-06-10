@@ -149,7 +149,7 @@ def build_pages():  # TODO REMOVE DEPENDENCY ON WIKIPEDIA
             f_meta = []
 
             f_name = row.pop('INSTNM')
-            filepath = f_name
+            filepath = pathlib.Path(slugify(f_name)).with_suffix(".md")
             f_url = row.pop('INSTURL').rstrip('/')
 
             for name, val in row.items():
@@ -162,7 +162,6 @@ def build_pages():  # TODO REMOVE DEPENDENCY ON WIKIPEDIA
 
             f_text = "\n\n".join(f_meta)
 
-            filepath = pathlib.Path(slugify(f_name)).with_suffix(".md")
             page = pathlib.Path("pages").joinpath(filepath)
 
             page.write_text(
