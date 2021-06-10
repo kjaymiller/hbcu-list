@@ -148,7 +148,7 @@ def build_pages():  # TODO REMOVE DEPENDENCY ON WIKIPEDIA
             f_meta = []
 
             for name, val in row.items():
-                f_meta.append(f"**{name}**: {val}")
+                f_meta.append(f"**{name}**: {val} ")
 
             ftext = "\n".join(f_meta)
 
