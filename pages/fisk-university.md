@@ -9,10 +9,6 @@
 
 **ST_FIPS**: Tennessee
 
-**LATITUDE**: 36.167087
-
-**LONGITUDE**: -86.804805
-
 **RELAFFIL**: None
 
 **location**: 36.167087, -86.804805

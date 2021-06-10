@@ -9,10 +9,6 @@
 
 **ST_FIPS**: Alabama
 
-**LATITUDE**: 33.482442
-
-**LONGITUDE**: -86.908751
-
 **RELAFFIL**: Christian Methodist Episcopal
 
 **location**: 33.482442, -86.908751

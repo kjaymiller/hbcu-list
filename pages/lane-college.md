@@ -9,10 +9,6 @@
 
 **ST_FIPS**: Tennessee
 
-**LATITUDE**: 35.627378
-
-**LONGITUDE**: -88.806535
-
 **RELAFFIL**: Christian Methodist Episcopal
 
 **location**: 35.627378, -88.806535

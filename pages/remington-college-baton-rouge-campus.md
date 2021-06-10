@@ -9,10 +9,6 @@
 
 **ST_FIPS**: Louisiana
 
-**LATITUDE**: 30.411857
-
-**LONGITUDE**: -91.052999
-
 **RELAFFIL**: None
 
 **location**: 30.411857, -91.052999

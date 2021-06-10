@@ -9,10 +9,6 @@
 
 **ST_FIPS**: South Carolina
 
-**LATITUDE**: 34.010348
-
-**LONGITUDE**: -81.020045
-
 **RELAFFIL**: African Methodist Episcopal
 
 **location**: 34.010348, -81.020045

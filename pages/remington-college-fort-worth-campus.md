@@ -9,10 +9,6 @@
 
 **ST_FIPS**: Texas
 
-**LATITUDE**: 32.776152
-
-**LONGITUDE**: -97.213702
-
 **RELAFFIL**: None
 
 **location**: 32.776152, -97.213702

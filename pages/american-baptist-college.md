@@ -9,10 +9,6 @@
 
 **ST_FIPS**: Tennessee
 
-**LATITUDE**: 36.202623
-
-**LONGITUDE**: -86.789912
-
 **RELAFFIL**: Baptist
 
 **location**: 36.202623, -86.789912

@@ -9,10 +9,6 @@
 
 **ST_FIPS**: North Carolina
 
-**LATITUDE**: 35.159664
-
-**LONGITUDE**: -80.737194
-
 **RELAFFIL**: None
 
 **location**: 35.159664, -80.737194

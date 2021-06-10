@@ -9,10 +9,6 @@
 
 **ST_FIPS**: Mississippi
 
-**LATITUDE**: 32.969985
-
-**LONGITUDE**: -89.915803
-
 **RELAFFIL**: None
 
 **location**: 32.969985, -89.915803

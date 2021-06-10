@@ -9,10 +9,6 @@
 
 **ST_FIPS**: New York
 
-**LATITUDE**: 40.748612
-
-**LONGITUDE**: -73.983822
-
 **RELAFFIL**: None
 
 **location**: 40.748612, -73.983822

@@ -9,10 +9,6 @@
 
 **ST_FIPS**: Arkansas
 
-**LATITUDE**: 34.782783
-
-**LONGITUDE**: -92.299184
-
 **RELAFFIL**: None
 
 **location**: 34.782783, -92.299184

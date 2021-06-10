@@ -9,10 +9,6 @@
 
 **ST_FIPS**: Florida
 
-**LATITUDE**: 29.654852
-
-**LONGITUDE**: -82.417302
-
 **RELAFFIL**: None
 
 **location**: 29.654852, -82.417302

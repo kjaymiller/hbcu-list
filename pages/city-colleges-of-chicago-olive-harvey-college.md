@@ -9,10 +9,6 @@
 
 **ST_FIPS**: Illinois
 
-**LATITUDE**: 41.709997
-
-**LONGITUDE**: -87.589249
-
 **RELAFFIL**: None
 
 **location**: 41.709997, -87.589249

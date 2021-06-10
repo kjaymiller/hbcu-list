@@ -9,10 +9,6 @@
 
 **ST_FIPS**: Pennsylvania
 
-**LATITUDE**: 39.945483
-
-**LONGITUDE**: -75.166332
-
 **RELAFFIL**: None
 
 **location**: 39.945483, -75.166332

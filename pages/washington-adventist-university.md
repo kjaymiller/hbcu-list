@@ -9,10 +9,6 @@
 
 **ST_FIPS**: Maryland
 
-**LATITUDE**: 38.986349
-
-**LONGITUDE**: -77.000608
-
 **RELAFFIL**: Seventh Day Adventists
 
 **location**: 38.986349, -77.000608

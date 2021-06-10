@@ -142,7 +142,7 @@ def load_to_es():
 @app.command()
 def build_pages():  # TODO REMOVE DEPENDENCY ON WIKIPEDIA
     for df in (hbcus, pbis):
-        df.drop(columns='CURROPER', inplace=True)
+        df.drop(columns=['CURROPER', 'LATITUDE', 'LONGITUDE'], inplace=True)
         dfj = df.to_dict(orient="records")
 
         for row in dfj:

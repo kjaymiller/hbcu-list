@@ -9,10 +9,6 @@
 
 **ST_FIPS**: Indiana
 
-**LATITUDE**: 39.798144
-
-**LONGITUDE**: -86.103953
-
 **RELAFFIL**: None
 
 **location**: 39.798144, -86.103953
