@@ -142,29 +142,33 @@ def load_to_es():
 @app.command()
 def build_pages():  # TODO REMOVE DEPENDENCY ON WIKIPEDIA
     for df in (hbcus, pbis):
+        df.drop(columns='CURROPER', inplace=True)
         dfj = df.to_dict(orient="records")
 
         for row in dfj:
             f_meta = []
 
-            fname = row['INSTNM']
+            f_name = row.pop('INSTNM')
+            f_url = row.pop('INSTURL').rstrip('/')
 
             for name, val in row.items():
                 if val in (1.0, 0.0): 
                     if val:
-                        fname += f" {name}" 
+                        f_name += f" {name}" 
+
                 else:
                     f_meta.append(f"**{name}**: {val}")
 
-            ftext = "\n\n".join(f_meta)
+            f_text = "\n\n".join(f_meta)
 
-            filepath = pathlib.Path(slugify(row["INSTNM"])).with_suffix(".md")
+            filepath = pathlib.Path(slugify(f_name)).with_suffix(".md")
             page = pathlib.Path("pages").joinpath(filepath)
 
             page.write_text(
-            f"""
+            f"""# {f_name}
+## <{f_url}>
 ---
-{ftext}"""
+{f_text}"""
         )
 
 
