@@ -144,18 +144,18 @@ def build_pages():  # TODO REMOVE DEPENDENCY ON WIKIPEDIA
     for df in (hbcus, pbis):
         dfj = df.to_dict(orient="records")
 
-    for row in dfj:
-        f_meta = []
+        for row in dfj:
+            f_meta = []
 
-        for name, val in row.items():
-            f_meta.append(f"{name}: {val}")
+            for name, val in row.items():
+                f_meta.append(f"{name}: {val}")
 
-        ftext = "\n".join(f_meta)
+            ftext = "\n".join(f_meta)
 
-        filepath = pathlib.Path(slugify(row["INSTNM"])).with_suffix(".md")
-        page = pathlib.Path("pages").joinpath(filepath)
+            filepath = pathlib.Path(slugify(row["INSTNM"])).with_suffix(".md")
+            page = pathlib.Path("pages").joinpath(filepath)
 
-        page.write_text(
+            page.write_text(
             f"""---
 {ftext}
 ---
