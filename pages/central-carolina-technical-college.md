@@ -2,17 +2,22 @@
 INSTNM: Central Carolina Technical College
 CITY: Sumter
 INSTURL: www.cctech.edu
+HIGHDEG: Associate degree
 CONTROL: Public
 ST_FIPS: South Carolina
 LATITUDE: 33.933342
 LONGITUDE: -80.37101
 HBCU: 0.0
 PBI: 1.0
+ANNHI: 0.0
+TRIBAL: 0.0
+AANAPII: 0.0
+HSI: 0.0
+NANTI: 0.0
 MENONLY: 0.0
 WOMENONLY: 0.0
-RELAFFIL: Not reported
-CURROPER: 1
-slug: central-carolina-technical-college
-location: [33.933342, -80.37101]
+RELAFFIL: None
+CURROPER: 1.0
+location: 33.933342, -80.37101
 ---
 Central Carolina Technical College
