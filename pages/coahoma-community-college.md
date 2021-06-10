@@ -1,5 +1,5 @@
 # Coahoma Community College HBCU
-## <www.coahomacc.edu>
+### www.coahomacc.edu
 ---
 **CITY**: Clarksdale
 

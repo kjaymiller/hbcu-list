@@ -1,5 +1,5 @@
 # Paul Quinn College HBCU
-## <www.pqc.edu>
+### www.pqc.edu
 ---
 **CITY**: Dallas
 

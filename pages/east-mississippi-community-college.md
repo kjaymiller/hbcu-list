@@ -1,5 +1,5 @@
 # East Mississippi Community College PBI
-## <www.eastms.edu>
+### www.eastms.edu
 ---
 **CITY**: Scooba
 

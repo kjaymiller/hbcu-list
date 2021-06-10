@@ -1,5 +1,5 @@
 # Florida Memorial University HBCU
-## <www.fmuniv.edu>
+### www.fmuniv.edu
 ---
 **CITY**: Miami Gardens
 

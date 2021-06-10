@@ -1,5 +1,5 @@
 # Remington College-Lafayette Campus PBI
-## <www.remingtoncollege.edu/louisiana-career-school-overview>
+### www.remingtoncollege.edu/louisiana-career-school-overview
 ---
 **CITY**: Lafayette
 

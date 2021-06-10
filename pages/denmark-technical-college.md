@@ -1,5 +1,5 @@
 # Denmark Technical College HBCU
-## <www.denmarktech.edu>
+### www.denmarktech.edu
 ---
 **CITY**: Denmark
 

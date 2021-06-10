@@ -1,5 +1,5 @@
 # Interdenominational Theological Center HBCU
-## <www.itc.edu>
+### www.itc.edu
 ---
 **CITY**: Atlanta
 

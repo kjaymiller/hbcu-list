@@ -1,5 +1,5 @@
 # Arkansas State University Mid-South PBI
-## <www.asumidsouth.edu>
+### www.asumidsouth.edu
 ---
 **CITY**: West Memphis
 

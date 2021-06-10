@@ -1,5 +1,5 @@
 # South Georgia Technical College PBI
-## <www.southgatech.edu>
+### www.southgatech.edu
 ---
 **CITY**: Americus
 

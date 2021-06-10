@@ -1,5 +1,5 @@
 # Dillard University HBCU
-## <www.dillard.edu>
+### www.dillard.edu
 ---
 **CITY**: New Orleans
 

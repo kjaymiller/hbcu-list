@@ -1,5 +1,5 @@
 # Howard University HBCU
-## <www.howard.edu>
+### www.howard.edu
 ---
 **CITY**: Washington
 

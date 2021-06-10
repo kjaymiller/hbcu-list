@@ -1,5 +1,5 @@
 # Huston-Tillotson University HBCU
-## <www.htu.edu>
+### www.htu.edu
 ---
 **CITY**: Austin
 

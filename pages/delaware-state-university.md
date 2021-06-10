@@ -1,5 +1,5 @@
 # Delaware State University HBCU
-## <www.desu.edu>
+### www.desu.edu
 ---
 **CITY**: Dover
 

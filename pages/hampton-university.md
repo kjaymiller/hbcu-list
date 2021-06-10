@@ -1,5 +1,5 @@
 # Hampton University HBCU
-## <www.hamptonu.edu>
+### www.hamptonu.edu
 ---
 **CITY**: Hampton
 

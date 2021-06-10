@@ -1,5 +1,5 @@
 # Lincoln College PBI
-## <lincolncollege.edu>
+### lincolncollege.edu
 ---
 **CITY**: Lincoln
 

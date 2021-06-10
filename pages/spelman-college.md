@@ -1,5 +1,5 @@
 # Spelman College HBCU WOMENONLY
-## <www.spelman.edu>
+### www.spelman.edu
 ---
 **CITY**: Atlanta
 

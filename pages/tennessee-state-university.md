@@ -1,5 +1,5 @@
 # Tennessee State University HBCU
-## <www.tnstate.edu>
+### www.tnstate.edu
 ---
 **CITY**: Nashville
 

@@ -1,5 +1,5 @@
 # Central State University HBCU
-## <www.centralstate.edu>
+### www.centralstate.edu
 ---
 **CITY**: Wilberforce
 

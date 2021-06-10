@@ -1,5 +1,5 @@
 # Meridian Community College PBI
-## <www.meridiancc.edu>
+### www.meridiancc.edu
 ---
 **CITY**: Meridian
 

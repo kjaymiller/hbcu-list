@@ -1,5 +1,5 @@
 # Peirce College PBI
-## <https://www.peirce.edu>
+### https://www.peirce.edu
 ---
 **CITY**: Philadelphia
 

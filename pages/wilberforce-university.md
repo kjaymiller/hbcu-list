@@ -1,5 +1,5 @@
 # Wilberforce University HBCU
-## <www.wilberforce.edu>
+### www.wilberforce.edu
 ---
 **CITY**: Wilberforce
 

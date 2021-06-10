@@ -1,5 +1,5 @@
 # Oakwood University HBCU
-## <https://www2.oakwood.edu>
+### https://www2.oakwood.edu
 ---
 **CITY**: Huntsville
 

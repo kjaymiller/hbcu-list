@@ -1,5 +1,5 @@
 # Baptist Memorial College of Health Sciences PBI
-## <www.bchs.edu>
+### www.bchs.edu
 ---
 **CITY**: Memphis
 

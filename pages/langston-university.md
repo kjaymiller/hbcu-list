@@ -1,5 +1,5 @@
 # Langston University HBCU
-## <www.langston.edu>
+### www.langston.edu
 ---
 **CITY**: Langston
 

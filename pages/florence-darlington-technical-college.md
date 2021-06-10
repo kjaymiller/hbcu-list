@@ -1,5 +1,5 @@
 # Florence-Darlington Technical College PBI
-## <https://WWW.FDTC.EDU>
+### https://WWW.FDTC.EDU
 ---
 **CITY**: Florence
 

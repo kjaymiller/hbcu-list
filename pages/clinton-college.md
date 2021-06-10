@@ -1,5 +1,5 @@
 # Clinton College HBCU
-## <www.clintoncollege.edu>
+### www.clintoncollege.edu
 ---
 **CITY**: Rock Hill
 

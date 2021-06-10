@@ -1,5 +1,5 @@
 # Allen University HBCU
-## <www.allenuniversity.edu>
+### www.allenuniversity.edu
 ---
 **CITY**: Columbia
 

@@ -1,5 +1,5 @@
 # Remington College-Mobile Campus PBI
-## <www.remingtoncollege.edu/mobile-alabama-colleges-campus>
+### www.remingtoncollege.edu/mobile-alabama-colleges-campus
 ---
 **CITY**: Mobile
 

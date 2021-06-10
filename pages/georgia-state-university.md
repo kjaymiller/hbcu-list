@@ -1,5 +1,5 @@
 # Georgia State University PBI AANAPII
-## <www.gsu.edu>
+### www.gsu.edu
 ---
 **CITY**: Atlanta
 

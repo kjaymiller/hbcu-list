@@ -1,5 +1,5 @@
 # Shelton State Community College HBCU
-## <www.sheltonstate.edu>
+### www.sheltonstate.edu
 ---
 **CITY**: Tuscaloosa
 

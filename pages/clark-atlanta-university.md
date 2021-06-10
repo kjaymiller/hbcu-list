@@ -1,5 +1,5 @@
 # Clark Atlanta University HBCU
-## <www.cau.edu>
+### www.cau.edu
 ---
 **CITY**: Atlanta
 

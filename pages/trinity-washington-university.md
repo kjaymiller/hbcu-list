@@ -1,5 +1,5 @@
 # Trinity Washington University PBI HSI WOMENONLY
-## <www.trinitydc.edu>
+### www.trinitydc.edu
 ---
 **CITY**: Washington
 

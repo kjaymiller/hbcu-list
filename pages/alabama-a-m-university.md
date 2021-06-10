@@ -1,5 +1,5 @@
 # Alabama A & M University HBCU
-## <www.aamu.edu>
+### www.aamu.edu
 ---
 **CITY**: Normal
 

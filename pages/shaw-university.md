@@ -1,5 +1,5 @@
 # Shaw University HBCU
-## <www.shawu.edu>
+### www.shawu.edu
 ---
 **CITY**: Raleigh
 

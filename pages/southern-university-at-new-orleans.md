@@ -1,5 +1,5 @@
 # Southern University at New Orleans HBCU
-## <www.suno.edu>
+### www.suno.edu
 ---
 **CITY**: New Orleans
 

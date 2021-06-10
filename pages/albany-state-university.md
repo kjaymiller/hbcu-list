@@ -1,5 +1,5 @@
 # Albany State University HBCU
-## <https://www.asurams.edu>
+### https://www.asurams.edu
 ---
 **CITY**: Albany
 

@@ -1,5 +1,5 @@
 # North Carolina Central University HBCU
-## <www.nccu.edu>
+### www.nccu.edu
 ---
 **CITY**: Durham
 

@@ -1,5 +1,5 @@
 # Southern University and A & M College HBCU
-## <www.subr.edu>
+### www.subr.edu
 ---
 **CITY**: Baton Rouge
 

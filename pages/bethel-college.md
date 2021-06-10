@@ -1,5 +1,5 @@
 # Bethel College PBI
-## <bcva.edu>
+### bcva.edu
 ---
 **CITY**: Hampton
 

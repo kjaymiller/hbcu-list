@@ -1,5 +1,5 @@
 # Southeastern Baptist College PBI
-## <https://www.southeasternbaptist.edu>
+### https://www.southeasternbaptist.edu
 ---
 **CITY**: Laurel
 

@@ -1,5 +1,5 @@
 # Remington College-Nashville Campus PBI
-## <www.remingtoncollege.edu/nashville-tennessee-career-colleges-overview>
+### www.remingtoncollege.edu/nashville-tennessee-career-colleges-overview
 ---
 **CITY**: Nashville
 

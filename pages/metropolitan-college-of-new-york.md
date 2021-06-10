@@ -1,5 +1,5 @@
 # Metropolitan College of New York PBI HSI
-## <https://www.mcny.edu>
+### https://www.mcny.edu
 ---
 **CITY**: New York
 

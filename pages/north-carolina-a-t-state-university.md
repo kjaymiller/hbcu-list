@@ -1,5 +1,5 @@
 # North Carolina A & T State University HBCU
-## <www.ncat.edu>
+### www.ncat.edu
 ---
 **CITY**: Greensboro
 

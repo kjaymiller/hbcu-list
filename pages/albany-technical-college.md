@@ -1,5 +1,5 @@
 # Albany Technical College PBI
-## <www.albanytech.edu>
+### www.albanytech.edu
 ---
 **CITY**: Albany
 

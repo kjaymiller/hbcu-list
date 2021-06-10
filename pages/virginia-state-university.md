@@ -1,5 +1,5 @@
 # Virginia State University HBCU
-## <www.vsu.edu>
+### www.vsu.edu
 ---
 **CITY**: Petersburg
 

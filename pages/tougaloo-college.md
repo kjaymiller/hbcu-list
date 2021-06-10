@@ -1,5 +1,5 @@
 # Tougaloo College HBCU
-## <www.tougaloo.edu>
+### www.tougaloo.edu
 ---
 **CITY**: Tougaloo
 

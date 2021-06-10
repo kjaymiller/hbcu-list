@@ -1,5 +1,5 @@
 # Remington College-Cleveland Campus PBI
-## <www.remingtoncollege.edu/cleveland-ohio-career-schools-overview>
+### www.remingtoncollege.edu/cleveland-ohio-career-schools-overview
 ---
 **CITY**: Cleveland
 

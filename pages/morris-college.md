@@ -1,5 +1,5 @@
 # Morris College HBCU
-## <https://www.morris.edu>
+### https://www.morris.edu
 ---
 **CITY**: Sumter
 

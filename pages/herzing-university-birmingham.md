@@ -1,5 +1,5 @@
 # Herzing University-Birmingham PBI
-## <https://www.herzing.edu>
+### https://www.herzing.edu
 ---
 **CITY**: Birmingham
 

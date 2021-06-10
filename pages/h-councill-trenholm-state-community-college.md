@@ -1,5 +1,5 @@
 # H Councill Trenholm State Community College HBCU
-## <www.trenholmstate.edu>
+### www.trenholmstate.edu
 ---
 **CITY**: Montgomery
 

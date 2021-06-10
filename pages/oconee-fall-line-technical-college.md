@@ -1,5 +1,5 @@
 # Oconee Fall Line Technical College PBI
-## <www.oftc.edu>
+### www.oftc.edu
 ---
 **CITY**: Sandersville
 

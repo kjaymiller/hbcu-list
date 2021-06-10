@@ -1,5 +1,5 @@
 # Bloomfield College PBI HSI
-## <www.bloomfield.edu>
+### www.bloomfield.edu
 ---
 **CITY**: Bloomfield
 

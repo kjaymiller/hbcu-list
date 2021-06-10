@@ -1,5 +1,5 @@
 # Paine College HBCU
-## <www.paine.edu>
+### www.paine.edu
 ---
 **CITY**: Augusta
 

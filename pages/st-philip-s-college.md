@@ -1,5 +1,5 @@
 # St Philip's College HBCU
-## <www.alamo.edu/spc>
+### www.alamo.edu/spc
 ---
 **CITY**: San Antonio
 

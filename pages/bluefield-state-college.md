@@ -1,5 +1,5 @@
 # Bluefield State College HBCU
-## <https://bluefieldstate.edu>
+### https://bluefieldstate.edu
 ---
 **CITY**: Bluefield
 

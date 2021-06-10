@@ -1,5 +1,5 @@
 # Louisburg College PBI
-## <www.louisburg.edu>
+### www.louisburg.edu
 ---
 **CITY**: Louisburg
 

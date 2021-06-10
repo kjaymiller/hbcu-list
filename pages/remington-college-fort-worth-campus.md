@@ -1,5 +1,5 @@
 # Remington College-Fort Worth Campus PBI HSI
-## <www.remingtoncollege.edu/fort-worth-texas-career-schools-overview>
+### www.remingtoncollege.edu/fort-worth-texas-career-schools-overview
 ---
 **CITY**: Fort Worth
 

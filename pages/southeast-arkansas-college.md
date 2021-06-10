@@ -1,5 +1,5 @@
 # Southeast Arkansas College PBI
-## <www.seark.edu>
+### www.seark.edu
 ---
 **CITY**: Pine Bluff
 

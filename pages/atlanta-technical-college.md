@@ -1,5 +1,5 @@
 # Atlanta Technical College PBI
-## <https://www.atlantatech.edu>
+### https://www.atlantatech.edu
 ---
 **CITY**: Atlanta
 

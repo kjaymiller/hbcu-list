@@ -1,5 +1,5 @@
 # Faulkner University PBI
-## <www.faulkner.edu>
+### www.faulkner.edu
 ---
 **CITY**: Montgomery
 

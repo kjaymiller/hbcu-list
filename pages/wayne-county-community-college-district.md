@@ -1,5 +1,5 @@
 # Wayne County Community College District PBI
-## <www.wcccd.edu>
+### www.wcccd.edu
 ---
 **CITY**: Detroit
 

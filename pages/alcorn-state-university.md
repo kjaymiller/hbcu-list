@@ -1,5 +1,5 @@
 # Alcorn State University HBCU
-## <www.alcorn.edu>
+### www.alcorn.edu
 ---
 **CITY**: Alcorn State
 

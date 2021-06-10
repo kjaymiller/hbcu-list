@@ -1,5 +1,5 @@
 # Morehouse School of Medicine HBCU
-## <www.msm.edu>
+### www.msm.edu
 ---
 **CITY**: Atlanta
 

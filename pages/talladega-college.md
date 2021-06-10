@@ -1,5 +1,5 @@
 # Talladega College HBCU
-## <www.talladega.edu>
+### www.talladega.edu
 ---
 **CITY**: Talladega
 

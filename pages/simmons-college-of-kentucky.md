@@ -1,5 +1,5 @@
 # Simmons College of Kentucky HBCU
-## <https://www.simmonscollegeky.edu>
+### https://www.simmonscollegeky.edu
 ---
 **CITY**: Louisville
 

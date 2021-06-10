@@ -1,5 +1,5 @@
 # Wiley College HBCU
-## <wileyc.edu>
+### wileyc.edu
 ---
 **CITY**: Marshall
 

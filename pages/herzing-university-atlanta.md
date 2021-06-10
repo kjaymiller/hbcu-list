@@ -1,5 +1,5 @@
 # Herzing University-Atlanta PBI
-## <https://www.herzing.edu>
+### https://www.herzing.edu
 ---
 **CITY**: Atlanta
 

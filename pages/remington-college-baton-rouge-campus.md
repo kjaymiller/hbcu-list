@@ -1,5 +1,5 @@
 # Remington College-Baton Rouge Campus PBI
-## <www.remingtoncollege.edu/baton-rouge-career-college>
+### www.remingtoncollege.edu/baton-rouge-career-college
 ---
 **CITY**: Baton Rouge
 

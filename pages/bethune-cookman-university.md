@@ -1,5 +1,5 @@
 # Bethune-Cookman University HBCU
-## <www.cookman.edu>
+### www.cookman.edu
 ---
 **CITY**: Daytona Beach
 

@@ -1,5 +1,5 @@
 # Remington College-Memphis Campus PBI
-## <www.remingtoncollege.edu/memphis-tennessee-career-colleges-overview>
+### www.remingtoncollege.edu/memphis-tennessee-career-colleges-overview
 ---
 **CITY**: Memphis
 

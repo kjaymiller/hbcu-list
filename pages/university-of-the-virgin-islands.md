@@ -1,5 +1,5 @@
 # University of the Virgin Islands HBCU
-## <www.uvi.edu>
+### www.uvi.edu
 ---
 **CITY**: Charlotte Amalie
 

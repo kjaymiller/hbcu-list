@@ -1,5 +1,5 @@
 # Bennett College HBCU WOMENONLY
-## <www.bennett.edu>
+### www.bennett.edu
 ---
 **CITY**: Greensboro
 

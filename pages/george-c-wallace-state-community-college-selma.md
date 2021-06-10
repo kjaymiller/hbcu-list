@@ -1,5 +1,5 @@
 # George C Wallace State Community College-Selma PBI
-## <www.wccs.edu>
+### www.wccs.edu
 ---
 **CITY**: Selma
 

@@ -1,5 +1,5 @@
 # Johnson C Smith University HBCU
-## <www.jcsu.edu>
+### www.jcsu.edu
 ---
 **CITY**: Charlotte
 

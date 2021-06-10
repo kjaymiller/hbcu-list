@@ -1,5 +1,5 @@
 # Prairie View A & M University HBCU
-## <www.pvamu.edu>
+### www.pvamu.edu
 ---
 **CITY**: Prairie View
 

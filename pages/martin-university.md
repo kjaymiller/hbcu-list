@@ -1,5 +1,5 @@
 # Martin University PBI
-## <www.martin.edu>
+### www.martin.edu
 ---
 **CITY**: Indianapolis
 

@@ -1,5 +1,5 @@
 # Beulah Heights University PBI
-## <www.beulah.edu>
+### www.beulah.edu
 ---
 **CITY**: Atlanta
 

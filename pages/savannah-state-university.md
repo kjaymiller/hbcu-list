@@ -1,5 +1,5 @@
 # Savannah State University HBCU
-## <www.savannahstate.edu>
+### www.savannahstate.edu
 ---
 **CITY**: Savannah
 

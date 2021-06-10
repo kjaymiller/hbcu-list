@@ -1,5 +1,5 @@
 # Stillman College HBCU
-## <https://stillman.edu>
+### https://stillman.edu
 ---
 **CITY**: Tuscaloosa
 

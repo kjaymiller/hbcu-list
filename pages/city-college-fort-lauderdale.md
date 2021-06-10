@@ -1,5 +1,5 @@
 # City College-Fort Lauderdale PBI
-## <https://www.citycollege.edu>
+### https://www.citycollege.edu
 ---
 **CITY**: Fort Lauderdale
 

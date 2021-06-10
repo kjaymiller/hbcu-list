@@ -1,5 +1,5 @@
 # Lincoln University HBCU
-## <www.lincoln.edu>
+### www.lincoln.edu
 ---
 **CITY**: Lincoln University
 

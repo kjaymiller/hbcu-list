@@ -1,5 +1,5 @@
 # Virginia University of Lynchburg HBCU
-## <www.vul.edu>
+### www.vul.edu
 ---
 **CITY**: Lynchburg
 

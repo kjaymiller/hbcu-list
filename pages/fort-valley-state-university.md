@@ -1,5 +1,5 @@
 # Fort Valley State University HBCU
-## <www.fvsu.edu>
+### www.fvsu.edu
 ---
 **CITY**: Fort Valley
 

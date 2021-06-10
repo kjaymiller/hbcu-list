@@ -1,5 +1,5 @@
 # Georgia Piedmont Technical College PBI
-## <www.gptc.edu>
+### www.gptc.edu
 ---
 **CITY**: Clarkston
 

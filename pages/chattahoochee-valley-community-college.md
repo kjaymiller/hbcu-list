@@ -1,5 +1,5 @@
 # Chattahoochee Valley Community College PBI
-## <www.cv.edu>
+### www.cv.edu
 ---
 **CITY**: Phenix City
 

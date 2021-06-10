@@ -1,5 +1,5 @@
 # Columbus Technical College PBI
-## <www.columbustech.edu>
+### www.columbustech.edu
 ---
 **CITY**: Columbus
 

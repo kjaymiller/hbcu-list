@@ -1,5 +1,5 @@
 # Tuskegee University HBCU
-## <www.tuskegee.edu>
+### www.tuskegee.edu
 ---
 **CITY**: Tuskegee
 

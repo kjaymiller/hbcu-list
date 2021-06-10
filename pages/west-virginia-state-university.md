@@ -1,5 +1,5 @@
 # West Virginia State University HBCU
-## <www.wvstateu.edu>
+### www.wvstateu.edu
 ---
 **CITY**: Institute
 

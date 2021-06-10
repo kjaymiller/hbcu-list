@@ -1,5 +1,5 @@
 # Livingstone College HBCU
-## <www.livingstone.edu>
+### www.livingstone.edu
 ---
 **CITY**: Salisbury
 

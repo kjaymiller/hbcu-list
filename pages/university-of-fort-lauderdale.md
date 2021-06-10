@@ -1,5 +1,5 @@
 # University of Fort Lauderdale PBI
-## <uftl.edu>
+### uftl.edu
 ---
 **CITY**: Lauderhill
 

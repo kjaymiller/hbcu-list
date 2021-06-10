@@ -1,5 +1,5 @@
 # American Baptist College HBCU
-## <www.abcnash.edu>
+### www.abcnash.edu
 ---
 **CITY**: Nashville
 

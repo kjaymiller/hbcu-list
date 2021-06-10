@@ -1,5 +1,5 @@
 # Jackson State University HBCU
-## <www.jsums.edu>
+### www.jsums.edu
 ---
 **CITY**: Jackson
 

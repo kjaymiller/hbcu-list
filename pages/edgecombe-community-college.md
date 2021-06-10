@@ -1,5 +1,5 @@
 # Edgecombe Community College PBI
-## <www.edgecombe.edu>
+### www.edgecombe.edu
 ---
 **CITY**: Tarboro
 

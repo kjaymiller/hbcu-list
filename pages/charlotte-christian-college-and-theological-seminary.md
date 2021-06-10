@@ -1,5 +1,5 @@
 # Charlotte Christian College and Theological Seminary PBI
-## <www.charlottechristian.edu>
+### www.charlottechristian.edu
 ---
 **CITY**: Charlotte
 

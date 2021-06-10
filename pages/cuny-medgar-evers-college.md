@@ -1,5 +1,5 @@
 # CUNY Medgar Evers College PBI
-## <https://ares.mec.cuny.edu>
+### https://ares.mec.cuny.edu
 ---
 **CITY**: Brooklyn
 

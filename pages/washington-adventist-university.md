@@ -1,5 +1,5 @@
 # Washington Adventist University PBI
-## <https://www.wau.edu>
+### https://www.wau.edu
 ---
 **CITY**: Takoma Park
 

@@ -1,5 +1,5 @@
 # Arkansas Baptist College HBCU
-## <www.arkansasbaptist.edu>
+### www.arkansasbaptist.edu
 ---
 **CITY**: Little Rock
 

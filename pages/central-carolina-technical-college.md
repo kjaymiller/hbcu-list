@@ -1,5 +1,5 @@
 # Central Carolina Technical College PBI
-## <www.cctech.edu>
+### www.cctech.edu
 ---
 **CITY**: Sumter
 

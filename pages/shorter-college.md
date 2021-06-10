@@ -1,5 +1,5 @@
 # Shorter College HBCU
-## <www.shortercollege.edu>
+### www.shortercollege.edu
 ---
 **CITY**: N Little Rock
 

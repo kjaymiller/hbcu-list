@@ -1,5 +1,5 @@
 # Texas Southern University HBCU
-## <www.tsu.edu>
+### www.tsu.edu
 ---
 **CITY**: Houston
 

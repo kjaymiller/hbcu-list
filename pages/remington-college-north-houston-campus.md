@@ -1,5 +1,5 @@
 # Remington College-North Houston Campus PBI HSI
-## <www.remingtoncollege.edu/north-houston-texas-colleges>
+### www.remingtoncollege.edu/north-houston-texas-colleges
 ---
 **CITY**: Houston
 

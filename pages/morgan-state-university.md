@@ -1,5 +1,5 @@
 # Morgan State University HBCU
-## <https://www.morgan.edu>
+### https://www.morgan.edu
 ---
 **CITY**: Baltimore
 

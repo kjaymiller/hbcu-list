@@ -1,5 +1,5 @@
 # Dallas Nursing Institute PBI
-## <www.dni.edu>
+### www.dni.edu
 ---
 **CITY**: Richardson
 

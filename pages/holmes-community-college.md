@@ -1,5 +1,5 @@
 # Holmes Community College PBI
-## <www.holmescc.edu>
+### www.holmescc.edu
 ---
 **CITY**: Goodman
 

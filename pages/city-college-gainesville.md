@@ -1,5 +1,5 @@
 # City College-Gainesville PBI
-## <https://www.citycollege.edu>
+### https://www.citycollege.edu
 ---
 **CITY**: Gainesville
 

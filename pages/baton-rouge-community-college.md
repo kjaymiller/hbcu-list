@@ -1,5 +1,5 @@
 # Baton Rouge Community College PBI
-## <www.mybrcc.edu>
+### www.mybrcc.edu
 ---
 **CITY**: Baton Rouge
 

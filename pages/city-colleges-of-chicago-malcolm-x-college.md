@@ -1,5 +1,5 @@
 # City Colleges of Chicago-Malcolm X College PBI HSI
-## <www.ccc.edu/colleges/malcolm-x/pages/default.aspx>
+### www.ccc.edu/colleges/malcolm-x/pages/default.aspx
 ---
 **CITY**: Chicago
 

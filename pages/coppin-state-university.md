@@ -1,5 +1,5 @@
 # Coppin State University HBCU
-## <www.coppin.edu>
+### www.coppin.edu
 ---
 **CITY**: Baltimore
 

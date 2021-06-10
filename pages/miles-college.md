@@ -1,5 +1,5 @@
 # Miles College HBCU
-## <www.miles.edu>
+### www.miles.edu
 ---
 **CITY**: Fairfield
 

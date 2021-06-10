@@ -1,5 +1,5 @@
 # Florida Agricultural and Mechanical University HBCU
-## <www.famu.edu>
+### www.famu.edu
 ---
 **CITY**: Tallahassee
 

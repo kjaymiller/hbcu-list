@@ -1,5 +1,5 @@
 # Southern University at Shreveport HBCU
-## <www.susla.edu>
+### www.susla.edu
 ---
 **CITY**: Shreveport
 

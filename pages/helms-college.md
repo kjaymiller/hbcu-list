@@ -1,5 +1,5 @@
 # Helms College PBI
-## <www.helms.edu>
+### www.helms.edu
 ---
 **CITY**: Macon
 

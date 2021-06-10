@@ -1,5 +1,5 @@
 # Gupton Jones College of Funeral Service PBI
-## <www.gupton-jones.edu>
+### www.gupton-jones.edu
 ---
 **CITY**: Decatur
 

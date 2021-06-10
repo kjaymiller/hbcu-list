@@ -1,5 +1,5 @@
 # Central Georgia Technical College PBI
-## <www.centralgatech.edu>
+### www.centralgatech.edu
 ---
 **CITY**: Warner Robins
 

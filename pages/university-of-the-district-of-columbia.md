@@ -1,5 +1,5 @@
 # University of the District of Columbia HBCU
-## <www.udc.edu>
+### www.udc.edu
 ---
 **CITY**: Washington
 

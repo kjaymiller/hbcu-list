@@ -1,5 +1,5 @@
 # Johnson & Wales University-Charlotte PBI
-## <https://www.jwu.edu/campuses/charlotte/index.html>
+### https://www.jwu.edu/campuses/charlotte/index.html
 ---
 **CITY**: Charlotte
 

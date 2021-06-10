@@ -1,5 +1,5 @@
 # Amridge University PBI
-## <www.amridgeuniversity.edu>
+### www.amridgeuniversity.edu
 ---
 **CITY**: Montgomery
 

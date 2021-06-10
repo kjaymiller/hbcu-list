@@ -1,5 +1,5 @@
 # Southern Crescent Technical College PBI
-## <www.sctech.edu>
+### www.sctech.edu
 ---
 **CITY**: Griffin
 

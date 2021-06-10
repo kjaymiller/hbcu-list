@@ -1,5 +1,5 @@
 # Fayetteville State University HBCU
-## <https://www.uncfsu.edu>
+### https://www.uncfsu.edu
 ---
 **CITY**: Fayetteville
 

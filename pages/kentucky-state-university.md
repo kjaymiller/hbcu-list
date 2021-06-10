@@ -1,5 +1,5 @@
 # Kentucky State University HBCU
-## <www.kysu.edu>
+### www.kysu.edu
 ---
 **CITY**: Frankfort
 

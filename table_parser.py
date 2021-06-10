@@ -166,7 +166,7 @@ def build_pages():  # TODO REMOVE DEPENDENCY ON WIKIPEDIA
 
             page.write_text(
             f"""# {f_name}
-## <{f_url}>
+### {f_url}
 ---
 {f_text}"""
         )

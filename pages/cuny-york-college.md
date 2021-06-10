@@ -1,5 +1,5 @@
 # CUNY York College PBI AANAPII HSI
-## <www.york.cuny.edu>
+### www.york.cuny.edu
 ---
 **CITY**: Jamaica
 

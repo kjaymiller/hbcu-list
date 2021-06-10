@@ -1,5 +1,5 @@
 # Philander Smith College HBCU
-## <https://www.philander.edu>
+### https://www.philander.edu
 ---
 **CITY**: Little Rock
 

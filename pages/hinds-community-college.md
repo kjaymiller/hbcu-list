@@ -1,5 +1,5 @@
 # Hinds Community College PBI
-## <www.hindscc.edu>
+### www.hindscc.edu
 ---
 **CITY**: Raymond
 

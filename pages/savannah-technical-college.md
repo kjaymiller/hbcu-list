@@ -1,5 +1,5 @@
 # Savannah Technical College PBI
-## <www.savannahtech.edu>
+### www.savannahtech.edu
 ---
 **CITY**: Savannah
 

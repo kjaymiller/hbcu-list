@@ -1,5 +1,5 @@
 # East-West University PBI
-## <www.eastwest.edu>
+### www.eastwest.edu
 ---
 **CITY**: Chicago
 

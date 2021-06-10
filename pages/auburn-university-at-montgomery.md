@@ -1,5 +1,5 @@
 # Auburn University at Montgomery PBI
-## <www.aum.edu>
+### www.aum.edu
 ---
 **CITY**: Montgomery
 

@@ -1,5 +1,5 @@
 # Benedict College HBCU
-## <www.benedict.edu>
+### www.benedict.edu
 ---
 **CITY**: Columbia
 

@@ -1,5 +1,5 @@
 # Meharry Medical College HBCU
-## <www.mmc.edu>
+### www.mmc.edu
 ---
 **CITY**: Nashville
 

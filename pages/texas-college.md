@@ -1,5 +1,5 @@
 # Texas College HBCU
-## <www.texascollege.edu>
+### www.texascollege.edu
 ---
 **CITY**: Tyler
 

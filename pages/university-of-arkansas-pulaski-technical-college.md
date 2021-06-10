@@ -1,5 +1,5 @@
 # University of Arkansas-Pulaski Technical College PBI
-## <uaptc.edu>
+### uaptc.edu
 ---
 **CITY**: North Little Rock
 

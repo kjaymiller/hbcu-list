@@ -1,5 +1,5 @@
 # South Louisiana Community College PBI
-## <https://www.solacc.edu>
+### https://www.solacc.edu
 ---
 **CITY**: Lafayette
 

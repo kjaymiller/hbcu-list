@@ -1,5 +1,5 @@
 # Voorhees College HBCU
-## <www.voorhees.edu>
+### www.voorhees.edu
 ---
 **CITY**: Denmark
 

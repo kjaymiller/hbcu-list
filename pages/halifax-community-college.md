@@ -1,5 +1,5 @@
 # Halifax Community College PBI
-## <www.halifaxcc.edu>
+### www.halifaxcc.edu
 ---
 **CITY**: Weldon
 

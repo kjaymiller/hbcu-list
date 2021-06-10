@@ -1,5 +1,5 @@
 # Saint Augustine's University HBCU
-## <www.st-aug.edu>
+### www.st-aug.edu
 ---
 **CITY**: Raleigh
 

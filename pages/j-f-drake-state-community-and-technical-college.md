@@ -1,5 +1,5 @@
 # J. F. Drake State Community and Technical College HBCU
-## <https://www.drakestate.edu>
+### https://www.drakestate.edu
 ---
 **CITY**: Huntsville
 

@@ -1,5 +1,5 @@
 # Le Moyne-Owen College HBCU
-## <www.loc.edu>
+### www.loc.edu
 ---
 **CITY**: Memphis
 

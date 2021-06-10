@@ -1,5 +1,5 @@
 # University of Maryland Eastern Shore HBCU
-## <www.umes.edu>
+### www.umes.edu
 ---
 **CITY**: Princess Anne
 

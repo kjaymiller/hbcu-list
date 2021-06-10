@@ -1,5 +1,5 @@
 # Community College of Philadelphia PBI
-## <www.ccp.edu>
+### www.ccp.edu
 ---
 **CITY**: Philadelphia
 

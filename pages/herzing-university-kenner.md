@@ -1,5 +1,5 @@
 # Herzing University-Kenner PBI
-## <https://www.herzing.edu>
+### https://www.herzing.edu
 ---
 **CITY**: Kenner
 

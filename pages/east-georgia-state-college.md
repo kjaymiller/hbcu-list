@@ -1,5 +1,5 @@
 # East Georgia State College PBI
-## <www.ega.edu>
+### www.ega.edu
 ---
 **CITY**: Swainsboro
 

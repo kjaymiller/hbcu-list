@@ -1,5 +1,5 @@
 # Bowie State University HBCU
-## <www.bowiestate.edu>
+### www.bowiestate.edu
 ---
 **CITY**: Bowie
 

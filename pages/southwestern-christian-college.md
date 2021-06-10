@@ -1,5 +1,5 @@
 # Southwestern Christian College HBCU
-## <www.swcc.edu>
+### www.swcc.edu
 ---
 **CITY**: Terrell
 

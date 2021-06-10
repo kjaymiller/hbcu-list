@@ -1,5 +1,5 @@
 # Limestone College PBI
-## <www.limestone.edu>
+### www.limestone.edu
 ---
 **CITY**: Gaffney
 

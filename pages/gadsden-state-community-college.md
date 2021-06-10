@@ -1,5 +1,5 @@
 # Gadsden State Community College HBCU
-## <www.gadsdenstate.edu>
+### www.gadsdenstate.edu
 ---
 **CITY**: Gadsden
 

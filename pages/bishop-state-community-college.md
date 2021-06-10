@@ -1,5 +1,5 @@
 # Bishop State Community College HBCU
-## <www.bishop.edu>
+### www.bishop.edu
 ---
 **CITY**: Mobile
 

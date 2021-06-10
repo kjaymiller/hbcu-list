@@ -1,5 +1,5 @@
 # Fisk University HBCU
-## <www.fisk.edu>
+### www.fisk.edu
 ---
 **CITY**: Nashville
 

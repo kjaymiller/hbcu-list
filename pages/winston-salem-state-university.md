@@ -1,5 +1,5 @@
 # Winston-Salem State University HBCU
-## <www.wssu.edu>
+### www.wssu.edu
 ---
 **CITY**: Winston-Salem
 

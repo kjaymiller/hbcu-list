@@ -1,5 +1,5 @@
 # Georgia State University-Perimeter College PBI
-## <perimeter.gsu.edu>
+### perimeter.gsu.edu
 ---
 **CITY**: Atlanta
 

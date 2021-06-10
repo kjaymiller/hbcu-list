@@ -1,5 +1,5 @@
 # South Carolina State University HBCU
-## <www.scsu.edu>
+### www.scsu.edu
 ---
 **CITY**: Orangeburg
 

@@ -1,5 +1,5 @@
 # Elizabeth City State University HBCU
-## <www.ecsu.edu>
+### www.ecsu.edu
 ---
 **CITY**: Elizabeth City
 

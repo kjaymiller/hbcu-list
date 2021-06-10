@@ -1,5 +1,5 @@
 # Edward Waters College HBCU
-## <www.ewc.edu>
+### www.ewc.edu
 ---
 **CITY**: Jacksonville
 

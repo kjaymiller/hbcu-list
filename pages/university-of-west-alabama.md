@@ -1,5 +1,5 @@
 # University of West Alabama PBI
-## <www.uwa.edu>
+### www.uwa.edu
 ---
 **CITY**: Livingston
 

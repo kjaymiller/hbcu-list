@@ -1,5 +1,5 @@
 # Xavier University of Louisiana HBCU
-## <https://www.xula.edu>
+### https://www.xula.edu
 ---
 **CITY**: New Orleans
 

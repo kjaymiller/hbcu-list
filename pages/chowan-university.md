@@ -1,5 +1,5 @@
 # Chowan University PBI
-## <https://www.chowan.edu>
+### https://www.chowan.edu
 ---
 **CITY**: Murfreesboro
 
