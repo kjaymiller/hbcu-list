@@ -148,7 +148,7 @@ def build_pages():  # TODO REMOVE DEPENDENCY ON WIKIPEDIA
         for row in dfj:
             f_meta = []
 
-            f_name = row.pop('INSTNM')
+            f_name = filepath = row.pop('INSTNM')
             f_url = row.pop('INSTURL').rstrip('/')
 
             for name, val in row.items():
