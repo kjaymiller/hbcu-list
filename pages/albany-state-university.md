@@ -1,4 +1,4 @@
-# Albany State University - HBCU
+# Albany State University - MAIN - HBCU
 ### https://www.asurams.edu
 ---
 **CITY**: Albany

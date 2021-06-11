@@ -1,4 +1,4 @@
-# Alcorn State University - HBCU
+# Alcorn State University - MAIN - HBCU
 ### www.alcorn.edu
 ---
 **CITY**: Alcorn State

@@ -1,4 +1,4 @@
-# Chowan University - PBI
+# Chowan University - MAIN - PBI
 ### https://www.chowan.edu
 ---
 **CITY**: Murfreesboro

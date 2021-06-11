@@ -1,4 +1,4 @@
-# Gupton Jones College of Funeral Service - PBI
+# Gupton Jones College of Funeral Service - MAIN - PBI
 ### www.gupton-jones.edu
 ---
 **CITY**: Decatur

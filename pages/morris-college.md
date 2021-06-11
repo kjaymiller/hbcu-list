@@ -1,4 +1,4 @@
-# Morris College - HBCU
+# Morris College - MAIN - HBCU
 ### https://www.morris.edu
 ---
 **CITY**: Sumter

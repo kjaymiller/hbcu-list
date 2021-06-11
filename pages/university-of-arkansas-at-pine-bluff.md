@@ -1,4 +1,4 @@
-# University of Arkansas at Pine Bluff - HBCU
+# University of Arkansas at Pine Bluff - MAIN - HBCU
 ### www.uapb.edu
 ---
 **CITY**: Pine Bluff

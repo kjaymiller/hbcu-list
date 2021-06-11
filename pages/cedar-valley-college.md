@@ -1,4 +1,4 @@
-# Cedar Valley College - PBI - HSI
+# Cedar Valley College - MAIN - PBI - HSI
 ### www.cedarvalleycollege.edu
 ---
 **CITY**: Lancaster

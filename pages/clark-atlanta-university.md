@@ -1,4 +1,4 @@
-# Clark Atlanta University - HBCU
+# Clark Atlanta University - MAIN - HBCU
 ### www.cau.edu
 ---
 **CITY**: Atlanta

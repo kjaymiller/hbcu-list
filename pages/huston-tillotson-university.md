@@ -1,4 +1,4 @@
-# Huston-Tillotson University - HBCU
+# Huston-Tillotson University - MAIN - HBCU
 ### www.htu.edu
 ---
 **CITY**: Austin

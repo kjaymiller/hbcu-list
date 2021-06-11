@@ -1,4 +1,4 @@
-# Jackson State University - HBCU
+# Jackson State University - MAIN - HBCU
 ### www.jsums.edu
 ---
 **CITY**: Jackson

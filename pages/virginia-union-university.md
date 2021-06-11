@@ -1,4 +1,4 @@
-# Virginia Union University - HBCU
+# Virginia Union University - MAIN - HBCU
 ### www.vuu.edu
 ---
 **CITY**: Richmond

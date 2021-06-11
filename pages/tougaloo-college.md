@@ -1,4 +1,4 @@
-# Tougaloo College - HBCU
+# Tougaloo College - MAIN - HBCU
 ### www.tougaloo.edu
 ---
 **CITY**: Tougaloo

@@ -1,4 +1,4 @@
-# Belhaven University - PBI
+# Belhaven University - MAIN - PBI
 ### www.belhaven.edu
 ---
 **CITY**: Jackson

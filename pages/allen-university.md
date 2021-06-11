@@ -1,4 +1,4 @@
-# Allen University - HBCU
+# Allen University - MAIN - HBCU
 ### www.allenuniversity.edu
 ---
 **CITY**: Columbia

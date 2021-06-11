@@ -1,4 +1,4 @@
-# Clinton College - HBCU
+# Clinton College - MAIN - HBCU
 ### www.clintoncollege.edu
 ---
 **CITY**: Rock Hill

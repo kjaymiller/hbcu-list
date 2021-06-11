@@ -1,4 +1,4 @@
-# Shorter College - HBCU
+# Shorter College - MAIN - HBCU
 ### www.shortercollege.edu
 ---
 **CITY**: N Little Rock

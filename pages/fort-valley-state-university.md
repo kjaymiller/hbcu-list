@@ -1,4 +1,4 @@
-# Fort Valley State University - HBCU
+# Fort Valley State University - MAIN - HBCU
 ### www.fvsu.edu
 ---
 **CITY**: Fort Valley

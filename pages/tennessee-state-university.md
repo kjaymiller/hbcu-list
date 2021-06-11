@@ -1,4 +1,4 @@
-# Tennessee State University - HBCU
+# Tennessee State University - MAIN - HBCU
 ### www.tnstate.edu
 ---
 **CITY**: Nashville

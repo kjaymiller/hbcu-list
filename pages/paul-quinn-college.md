@@ -1,4 +1,4 @@
-# Paul Quinn College - HBCU
+# Paul Quinn College - MAIN - HBCU
 ### www.pqc.edu
 ---
 **CITY**: Dallas

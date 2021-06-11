@@ -1,4 +1,4 @@
-# Lane College - HBCU
+# Lane College - MAIN - HBCU
 ### www.lanecollege.edu
 ---
 **CITY**: Jackson

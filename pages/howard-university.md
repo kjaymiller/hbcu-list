@@ -1,4 +1,4 @@
-# Howard University - HBCU
+# Howard University - MAIN - HBCU
 ### www.howard.edu
 ---
 **CITY**: Washington

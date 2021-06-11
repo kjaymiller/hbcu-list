@@ -1,4 +1,4 @@
-# Winston-Salem State University - HBCU
+# Winston-Salem State University - MAIN - HBCU
 ### www.wssu.edu
 ---
 **CITY**: Winston-Salem

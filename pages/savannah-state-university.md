@@ -1,4 +1,4 @@
-# Savannah State University - HBCU
+# Savannah State University - MAIN - HBCU
 ### www.savannahstate.edu
 ---
 **CITY**: Savannah

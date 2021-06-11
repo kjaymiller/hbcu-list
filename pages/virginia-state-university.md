@@ -1,4 +1,4 @@
-# Virginia State University - HBCU
+# Virginia State University - MAIN - HBCU
 ### www.vsu.edu
 ---
 **CITY**: Petersburg

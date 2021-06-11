@@ -1,4 +1,4 @@
-# Miles College - HBCU
+# Miles College - MAIN - HBCU
 ### www.miles.edu
 ---
 **CITY**: Fairfield

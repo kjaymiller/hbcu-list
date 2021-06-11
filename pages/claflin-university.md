@@ -1,4 +1,4 @@
-# Claflin University - HBCU
+# Claflin University - MAIN - HBCU
 ### www.claflin.edu
 ---
 **CITY**: Orangeburg

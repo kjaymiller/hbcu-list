@@ -1,4 +1,4 @@
-# Gadsden State Community College - HBCU
+# Gadsden State Community College - MAIN - HBCU
 ### www.gadsdenstate.edu
 ---
 **CITY**: Gadsden

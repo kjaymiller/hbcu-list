@@ -31,6 +31,8 @@ column_values = {
         "CONTROL": int,
         "RELAFFIL": str,
         "HIGHDEG": str,
+        "MAIN": float,
+        "HCM2": float,
     }
 
 def _translate_code(json_file, df_column, if_None: str="Unknown"):
@@ -64,7 +66,8 @@ pbis = base_df.loc[(base_df.PBI == 1) & (base_df.CURROPER == 1)]
 
 def _gen_slug_link(school):
     """create markdown link to associated pages object"""
-    return f"[{school.INSTNM}](/pages/{school.slug}.md) - {school.INSTURL}"
+    slug = slugify(school.INSTNM)
+    return f"[{school.INSTNM}](/pages/{slug}.md) - {school.INSTURL}"
 
 
 @app.command()
@@ -106,7 +109,7 @@ def gen_list(
 
 ---
 #### source: 
-    - [College Scorecard US Dept. of Education](https://data.ed.gov/dataset/college-scorecard-all-data-files-through-6-2020/resources?resource=823ac095-bdfc-41b0-b508-4e8fc3110082)
+[College Scorecard US Dept. of Education](https://data.ed.gov/dataset/college-scorecard-all-data-files-through-6-2020/resources?resource=823ac095-bdfc-41b0-b508-4e8fc3110082)
 
 #### license: [MIT License](/LICENSE)"""
     )

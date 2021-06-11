@@ -1,4 +1,4 @@
-# Meharry Medical College - HBCU
+# Meharry Medical College - MAIN - HBCU
 ### www.mmc.edu
 ---
 **CITY**: Nashville

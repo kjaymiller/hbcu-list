@@ -1,4 +1,4 @@
-# Elizabeth City State University - HBCU
+# Elizabeth City State University - MAIN - HBCU
 ### www.ecsu.edu
 ---
 **CITY**: Elizabeth City

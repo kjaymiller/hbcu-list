@@ -1,4 +1,4 @@
-# Southwest Mississippi Community College - PBI
+# Southwest Mississippi Community College - MAIN - PBI
 ### www.smcc.edu
 ---
 **CITY**: Summit

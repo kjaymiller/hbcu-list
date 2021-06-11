@@ -1,4 +1,4 @@
-# Talladega College - HBCU
+# Talladega College - MAIN - HBCU
 ### www.talladega.edu
 ---
 **CITY**: Talladega

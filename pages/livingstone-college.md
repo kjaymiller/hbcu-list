@@ -1,4 +1,4 @@
-# Livingstone College - HBCU
+# Livingstone College - MAIN - HBCU
 ### www.livingstone.edu
 ---
 **CITY**: Salisbury

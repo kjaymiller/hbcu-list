@@ -1,4 +1,4 @@
-# Hinds Community College - PBI
+# Hinds Community College - MAIN - PBI
 ### www.hindscc.edu
 ---
 **CITY**: Raymond

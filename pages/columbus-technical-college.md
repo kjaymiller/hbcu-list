@@ -1,4 +1,4 @@
-# Columbus Technical College - PBI
+# Columbus Technical College - MAIN - PBI
 ### www.columbustech.edu
 ---
 **CITY**: Columbus

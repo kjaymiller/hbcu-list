@@ -1,4 +1,4 @@
-# Fayetteville State University - HBCU
+# Fayetteville State University - MAIN - HBCU
 ### https://www.uncfsu.edu
 ---
 **CITY**: Fayetteville

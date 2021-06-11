@@ -1,4 +1,4 @@
-# Philander Smith College - HBCU
+# Philander Smith College - MAIN - HBCU
 ### https://www.philander.edu
 ---
 **CITY**: Little Rock

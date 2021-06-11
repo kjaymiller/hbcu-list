@@ -1,4 +1,4 @@
-# Stillman College - HBCU
+# Stillman College - MAIN - HBCU
 ### https://stillman.edu
 ---
 **CITY**: Tuscaloosa

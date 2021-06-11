@@ -1,4 +1,4 @@
-# Virginia University of Lynchburg - HBCU
+# Virginia University of Lynchburg - MAIN - HBCU
 ### www.vul.edu
 ---
 **CITY**: Lynchburg

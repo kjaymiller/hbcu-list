@@ -1,4 +1,4 @@
-# Fisk University - HBCU
+# Fisk University - MAIN - HBCU
 ### www.fisk.edu
 ---
 **CITY**: Nashville

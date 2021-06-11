@@ -1,4 +1,4 @@
-# Alabama A & M University - HBCU
+# Alabama A & M University - MAIN - HBCU
 ### www.aamu.edu
 ---
 **CITY**: Normal

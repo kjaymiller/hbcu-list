@@ -1,4 +1,4 @@
-# Edgecombe Community College - PBI
+# Edgecombe Community College - MAIN - PBI
 ### www.edgecombe.edu
 ---
 **CITY**: Tarboro

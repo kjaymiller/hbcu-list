@@ -1,4 +1,4 @@
-# Texas College - HBCU
+# Texas College - MAIN - HBCU
 ### www.texascollege.edu
 ---
 **CITY**: Tyler

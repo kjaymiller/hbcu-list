@@ -1,4 +1,4 @@
-# Bethune-Cookman University - HBCU
+# Bethune-Cookman University - MAIN - HBCU
 ### www.cookman.edu
 ---
 **CITY**: Daytona Beach

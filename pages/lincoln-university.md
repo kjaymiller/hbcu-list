@@ -1,4 +1,4 @@
-# Lincoln University - HBCU
+# Lincoln University - MAIN - HBCU
 ### www.lincoln.edu
 ---
 **CITY**: Lincoln University

@@ -1,4 +1,4 @@
-# Denmark Technical College - HBCU
+# Denmark Technical College - MAIN - HBCU
 ### www.denmarktech.edu
 ---
 **CITY**: Denmark

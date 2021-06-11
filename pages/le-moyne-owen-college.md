@@ -1,4 +1,4 @@
-# Le Moyne-Owen College - HBCU
+# Le Moyne-Owen College - MAIN - HBCU
 ### www.loc.edu
 ---
 **CITY**: Memphis

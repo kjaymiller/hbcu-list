@@ -1,4 +1,4 @@
-# Voorhees College - HBCU
+# Voorhees College - MAIN - HBCU
 ### www.voorhees.edu
 ---
 **CITY**: Denmark

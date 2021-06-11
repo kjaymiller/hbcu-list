@@ -1,4 +1,4 @@
-# Tuskegee University - HBCU
+# Tuskegee University - MAIN - HBCU
 ### www.tuskegee.edu
 ---
 **CITY**: Tuskegee

@@ -1,4 +1,4 @@
-# Wiley College - HBCU
+# Wiley College - HCM2 - MAIN - HBCU
 ### wileyc.edu
 ---
 **CITY**: Marshall

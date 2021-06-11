@@ -1,4 +1,4 @@
-# Spelman College - HBCU - WOMENONLY
+# Spelman College - MAIN - HBCU - WOMENONLY
 ### www.spelman.edu
 ---
 **CITY**: Atlanta

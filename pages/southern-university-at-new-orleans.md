@@ -1,4 +1,4 @@
-# Southern University at New Orleans - HBCU
+# Southern University at New Orleans - MAIN - HBCU
 ### www.suno.edu
 ---
 **CITY**: New Orleans

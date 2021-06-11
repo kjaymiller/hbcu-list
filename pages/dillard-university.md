@@ -1,4 +1,4 @@
-# Dillard University - HBCU
+# Dillard University - MAIN - HBCU
 ### www.dillard.edu
 ---
 **CITY**: New Orleans

@@ -1,4 +1,4 @@
-# Shaw University - HBCU
+# Shaw University - MAIN - HBCU
 ### www.shawu.edu
 ---
 **CITY**: Raleigh

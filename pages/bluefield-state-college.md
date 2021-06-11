@@ -1,4 +1,4 @@
-# Bluefield State College - HBCU
+# Bluefield State College - MAIN - HBCU
 ### https://bluefieldstate.edu
 ---
 **CITY**: Bluefield

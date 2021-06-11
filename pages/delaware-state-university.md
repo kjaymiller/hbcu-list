@@ -1,4 +1,4 @@
-# Delaware State University - HBCU
+# Delaware State University - MAIN - HBCU
 ### www.desu.edu
 ---
 **CITY**: Dover

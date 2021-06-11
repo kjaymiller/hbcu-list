@@ -1,4 +1,4 @@
-# Southwestern Christian College - HBCU
+# Southwestern Christian College - HCM2 - MAIN - HBCU
 ### www.swcc.edu
 ---
 **CITY**: Terrell

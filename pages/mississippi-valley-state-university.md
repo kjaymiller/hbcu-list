@@ -1,4 +1,4 @@
-# Mississippi Valley State University - HBCU
+# Mississippi Valley State University - MAIN - HBCU
 ### www.mvsu.edu
 ---
 **CITY**: Itta Bena

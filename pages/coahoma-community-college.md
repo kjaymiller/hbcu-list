@@ -1,4 +1,4 @@
-# Coahoma Community College - HBCU
+# Coahoma Community College - MAIN - HBCU
 ### www.coahomacc.edu
 ---
 **CITY**: Clarksdale

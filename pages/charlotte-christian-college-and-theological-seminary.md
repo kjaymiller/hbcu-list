@@ -1,4 +1,4 @@
-# Charlotte Christian College and Theological Seminary - PBI
+# Charlotte Christian College and Theological Seminary - MAIN - PBI
 ### www.charlottechristian.edu
 ---
 **CITY**: Charlotte

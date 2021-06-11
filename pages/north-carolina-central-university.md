@@ -1,4 +1,4 @@
-# North Carolina Central University - HBCU
+# North Carolina Central University - MAIN - HBCU
 ### www.nccu.edu
 ---
 **CITY**: Durham

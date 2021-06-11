@@ -1,4 +1,4 @@
-# Jarvis Christian College - HBCU
+# Jarvis Christian College - MAIN - HBCU
 ### www.jarvis.edu
 ---
 **CITY**: Hawkins

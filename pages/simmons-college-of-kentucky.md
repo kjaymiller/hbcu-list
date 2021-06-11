@@ -1,4 +1,4 @@
-# Simmons College of Kentucky - HBCU
+# Simmons College of Kentucky - MAIN - HBCU
 ### https://www.simmonscollegeky.edu
 ---
 **CITY**: Louisville

@@ -1,4 +1,4 @@
-# Wilberforce University - HBCU
+# Wilberforce University - MAIN - HBCU
 ### www.wilberforce.edu
 ---
 **CITY**: Wilberforce

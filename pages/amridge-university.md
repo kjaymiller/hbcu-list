@@ -1,4 +1,4 @@
-# Amridge University - PBI
+# Amridge University - MAIN - PBI
 ### www.amridgeuniversity.edu
 ---
 **CITY**: Montgomery

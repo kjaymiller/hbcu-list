@@ -1,4 +1,4 @@
-# North Carolina Wesleyan College - PBI
+# North Carolina Wesleyan College - MAIN - PBI
 ### www.ncwc.edu
 ---
 **CITY**: Rocky Mount

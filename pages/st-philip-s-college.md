@@ -1,4 +1,4 @@
-# St Philip's College - HBCU
+# St Philip's College - MAIN - HBCU
 ### www.alamo.edu/spc
 ---
 **CITY**: San Antonio

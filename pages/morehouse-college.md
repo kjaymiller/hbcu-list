@@ -1,4 +1,4 @@
-# Morehouse College - HBCU - MENONLY
+# Morehouse College - MAIN - HBCU - MENONLY
 ### www.morehouse.edu
 ---
 **CITY**: Atlanta

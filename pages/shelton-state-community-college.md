@@ -1,4 +1,4 @@
-# Shelton State Community College - HBCU
+# Shelton State Community College - MAIN - HBCU
 ### www.sheltonstate.edu
 ---
 **CITY**: Tuscaloosa

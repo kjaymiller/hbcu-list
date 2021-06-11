@@ -1,4 +1,4 @@
-# Arkansas Baptist College - HBCU
+# Arkansas Baptist College - HCM2 - MAIN - HBCU
 ### www.arkansasbaptist.edu
 ---
 **CITY**: Little Rock

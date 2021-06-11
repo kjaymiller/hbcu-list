@@ -1,4 +1,4 @@
-# Saint Augustine's University - HBCU
+# Saint Augustine's University - MAIN - HBCU
 ### www.st-aug.edu
 ---
 **CITY**: Raleigh

@@ -1,4 +1,4 @@
-# Georgia Piedmont Technical College - PBI
+# Georgia Piedmont Technical College - MAIN - PBI
 ### www.gptc.edu
 ---
 **CITY**: Clarkston

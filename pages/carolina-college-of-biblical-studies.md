@@ -1,4 +1,4 @@
-# Carolina College of Biblical Studies - PBI
+# Carolina College of Biblical Studies - MAIN - PBI
 ### ccbs.edu
 ---
 **CITY**: Fayetteville

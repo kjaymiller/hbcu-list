@@ -1,4 +1,4 @@
-# Xavier University of Louisiana - HBCU
+# Xavier University of Louisiana - MAIN - HBCU
 ### https://www.xula.edu
 ---
 **CITY**: New Orleans

@@ -1,4 +1,4 @@
-# Rust College - HBCU
+# Rust College - MAIN - HBCU
 ### www.rustcollege.edu
 ---
 **CITY**: Holly Springs

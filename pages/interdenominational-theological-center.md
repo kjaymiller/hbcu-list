@@ -1,4 +1,4 @@
-# Interdenominational Theological Center - HBCU
+# Interdenominational Theological Center - MAIN - HBCU
 ### www.itc.edu
 ---
 **CITY**: Atlanta

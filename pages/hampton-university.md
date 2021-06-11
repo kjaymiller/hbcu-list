@@ -1,4 +1,4 @@
-# Hampton University - HBCU
+# Hampton University - MAIN - HBCU
 ### www.hamptonu.edu
 ---
 **CITY**: Hampton

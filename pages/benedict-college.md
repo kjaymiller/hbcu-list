@@ -1,4 +1,4 @@
-# Benedict College - HBCU
+# Benedict College - MAIN - HBCU
 ### www.benedict.edu
 ---
 **CITY**: Columbia
