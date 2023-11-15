@@ -420,6 +420,6 @@ None
 
 ---
 #### source: 
-[College Scorecard US Dept. of Education](https://data.ed.gov/dataset/college-scorecard-all-data-files-through-6-2020/resources?resource=823ac095-bdfc-41b0-b508-4e8fc3110082)
+[College Scorecard US Dept. of Education](https://data.ed.gov/dataset/college-scorecard-all-data-files/resources)
 
 #### license: [MIT License](/LICENSE)
